@@ -1,2 +1,2 @@
 # Ataraxia
-Free-form open ended table top role playing game
+A free-form open ended table top role playing game
