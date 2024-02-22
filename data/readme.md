@@ -4,7 +4,7 @@ This section of the repository contains data crucial for character generation wi
 
 ### Files
 
-- **Lifepaths (`Ataraxia_Lifepaths_v1.6.3.csv`):** Contains the details of each lifepath a character can take, including titles, time spent, resources acquired, skills learned, and leads to other lifepaths.
+- **Lifepaths (`Ataraxia_Lifepaths_v1.6.4.csv`):** Contains the details of each lifepath a character can take, including titles, time spent, resources acquired, skills learned, and leads to other lifepaths.
 - **Traits (`traits.csv`):** A list of traits that characters can gain through their lifepaths, adding depth and personality.
 
 ### Lifepaths
