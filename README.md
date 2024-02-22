@@ -1,5 +1,7 @@
 # Ataraxia - A Tabletop Roleplaying Game
 
+Join our [Discord](https://discord.gg/QEe8ZuyFBP)!
+
 Ataraxia is a tabletop role-playing game that focuses on emergent complexity, minimizing bookkeeping, and integrating narrative with gameplay. It's inspired by the legacy of Dungeons & Dragons, tailored for player-created characters navigating a world through dice-mediated actions under the guidance of a Game Master (GM).
 
 ## Table of Contents
@@ -46,7 +48,7 @@ Ataraxia is a collaborative creation, supported by a community of players and de
 ### Thanks
 Special thanks to the RPG community, friends, family, and all who have contributed to the development of Ataraxia. Your support and feedback have been invaluable.
 
-For more detailed information on gameplay, rules, and character creation, please refer to the specific sections outlined in this README.
+For more detailed information on gameplay, rules, and character creation, please refer to the full ruleset under src/.
 
 *Version 2.0.3 – October 22nd, 2022*
 
