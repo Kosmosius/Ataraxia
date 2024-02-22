@@ -1,4 +1,4 @@
-FINAL CHARACTER: Konstantine
+EXAMPLE CHARACTER: Konstantine
 
 Will: 6, Intellect: 5; Morale: 11
 Strength: 5, Fortitude: 2; Vitality: 7
