@@ -48,7 +48,7 @@ Special thanks to the RPG community, friends, family, and all who have contribut
 
 For more detailed information on gameplay, rules, and character creation, please refer to the specific sections outlined in this README.
 
-*Version 2.0.1 – October 22nd, 2022*
+*Version 2.0.3 – October 22nd, 2022*
 
 ---
 
