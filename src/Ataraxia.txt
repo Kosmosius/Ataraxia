@@ -1,241 +1,407 @@
 
-Ataraxia
+
+
+AtaraxiA
 
 A Tabletop Roleplaying Game
+ 
+ 
+ 
+Table of Contents
 
+Welcome to The Game	3
+Dice Mechanics	4
+Root Dice	4
+Dice Progression	4
+Bonus Dice	4
+Advantage & Disadvantage	4
+Bonus Damage &	4
+Damage Reduction	4
+Character	5
+Concept	5
+Lifepaths	5
+Stats	5
+Will	5
+Intellect	5
+Strength	5
+Fortitude	5
+Agility	5
+Endurance	5
+Attributes	6
+Morale	6
+Vitality	6
+Stamina	6
+Defeat	6
+Rests	6
+Recovery	6
+Skills	7
+Lifepath Skills	7
+Expertise	7
+Call-On Skills & Help	7
+Magic Skills	7
+Learning New Skills	7
+Skill Progression	7
+Personality	7
+Beliefs	7
+Instincts	8
+Traits	8
+Connections	8
+Inspiration	8
+Gear, Equipment & Property	8
+Lifepaths	9
+Setting	9
+Society	9
+Historical Period	9
+Humanity	9
+The Fantastical	9
+Navigation	10
+Total Lifepaths	10
+Born Lifepath	10
+Additional Lifepaths	10
+Elements	10
+Lifepath Title	10
+Time	10
+Resources	10
+Traits	10
+Skills	10
+Leads	10
+Gear & Equipment	11
+Items	11
+Inventory	11
+Coins	11
+Degradation	11
+Magic Items	11
+Tools & Gear	11
+Light	11
+Bright Light	12
+Dim Light	12
+Darkness	12
+Clothing	12
+Lodging	12
+Food & Drink	12
+Substances	12
+Luxury Items	12
+Weapons	12
+Armor	12
+Property & Services	15
+Loans & Investments	15
+Livestock	16
+Hirelings	16
+Transportation	16
+Ships	16
+Real Estate	16
+Conflict	17
+Intent	17
+Task	17
+Test	17
+Resolution	17
+General Rules	17
+Damage	17
+Group Conflict	17
+Rulings	17
+Test Variations	18
+Free Test	18
+Variable Test	18
+Static Test	18
+Opposed Test	18
+Cascading Test	18
+Advanced Rules	18
+Attack	18
+Defend	18
+Maneuver	18
+Challenge Rating	19
+Easy Tests	19
+Average Tests	19
+Difficult Tests	19
+Gameplay Loop	20
+I. Exposition	20
+II. Rising Action	20
+III. Climax	20
+IV. Falling Action	20
+V. Resolution	20
+Death	20
+Might	21
+Martial Skills	21
+Armed	21
+Unarmed	21
+Range	21
+Missile	21
+Extended	21
+Striking	21
+Clinching	21
+Grappling	21
+Movement	22
+Mounted Combat	22
+Environment	22
+Cover & Position	22
+Visibility	22
+Weapons	22
+Armor	22
+Magic	23
+Magical Skills	23
+Learning Spells	23
+Magical Words	23
+Change	23
+Substance	23
+Quantity	23
+Location	24
+Duration	24
+Spell Focuses	24
+Magic Items	24
+Narrative	24
+Warping	24
+Divinity	25
+Limitations	25
+Miracles	26
+Divine Intervention	26
+Martyrdom	26
+The World	27
+Generation	27
+Drawing Cards	27
+Terrain	27
+Weather	27
+Scene Reading	27
+Suit	28
+Card Meaning	28
+Exploration	28
+Time	28
+Travel	28
+Terrain	29
+Ecology	29
+Wildlife	29
+Rivers	29
+Oceans	29
+Civilization	29
+Settlements	29
+Culture	29
+Weather	29
+Seasons	29
+Weather	30
+Minor Arcana	31
+Wands	32
+Cups	33
+Swords	34
+Pentacles	35
+Major Arcana	36
+Indices	40
+Lifepaths	40
+Skills	41
+Traits	43
+Example Character Sheets	48
+Support	61
+Copyright	61
 
 Thanks
-Ataraxia was made possible due to the encouragement, feedback and assistance of my loving wife, friends, family, and the RPG community. 
-This text uses the free fonts, Crimson Text and Davida Becker.
-Games that inspired this ruleset: Ars Magica, Burning Wheel, Darkest Dungeon, Dungeons & Dragons, GURPS, Knave, and Torchbearer
-Creative Commons Attribution 4.0 International License: You are free to share and adapt this material for any purpose, including commercially, as long as you give attribution.
- 
- 
-Welcome to the Game
-Ataraxia is a tabletop role-playing game in the legacy of Dungeons & Dragons. While some of the rules and mechanics found in this book are dissimilar to traditional systems, many of the core ideas and spirit should still be familiar. The game centers around player created and controlled characters that interact with the world through dice rolls mediated by a Dungeon Master (DM), Game Master (GM), or Judge.
-The central design consideration while developing this system was the question of how to build the most dynamic and complex gameplay out of the simplest initial rules, with minimal coercion and bookkeeping. These rules and mechanics are the result of that work, and I hope live up to the goal.
-Dice Mechanics. All rolls use at least one standard six sided die (1d6). Each die roll is reduced to either a Success or Failure by rolls of 4,5,6, and 1,2,3, respectively. Multiple dice are often used to increase the odds of success. All character values are denominated in Dice.
-Action Cycle & Conflict. All gameplay decisions are nested in a defined Action Cycle that allows for dynamic Conflict escalation and resolution.
-Character Creation. Initial characters are created using a Lifepath system that instills them with a framework of capability, personality, and history.
-Stats. Stats are the foundations of a character’s ability, and are subdivided into six values; Will, Intellect, Strength, Fortitude, Agility, and Endurance. Additionally, Stats can be used in tests of raw ability and advance through usage.
-Attributes. A character’s Stats are added together to form Morale, Vitality, and Endurance values which act as independent health pools.
-Skills. Skills are the means for a character to interact with the world in tasks that exceed raw ability. New skills can be organically acquired, and skills advance through use.
-Personality. Characters are defined by their Beliefs, Traits, Instincts, and Connections which motivate action and produce Conflict. 
-Gear & Equipment. Planning and applying the correct tool for the job makes otherwise impossible challenges doable. Items grant Advantage on all Tests they are applied to.
-Rhetoric.* The training and techniques of combat can be leveraged to control the flow of the battlefield.  
-Martial Combat. The training and techniques of combat can be leveraged to control the flow of the battlefield.  
-Magic. Unique spells can be built through the combination of magical words into phrases using an arcane language system.
-Divine. The Divine resides beyond the limits of known magic. Miracles are reserved for actions that break the laws of the universe.
-World Generation. Tarot cards are used alongside lookup tables to generate terrain, weather, and dramatic scenes.  
+Ataraxia receives its name from the Greek term, ἀταραξία, which is generally translated as "imperturbability" or "tranquility". This RPG was made possible due to the encouragement, feedback, and assistance of my loving wife, friends, family, and the RPG community. I hope that it brings the same kind of life to your group of friends as it has for ours.
+Version 2.0.1 – October 22nd 2022
+MIT - Copyright 2022:
+Ataraxia – A Tabletop Roleplaying Game
+You are free to share and adapt this material for any purpose, including commercially, as long as you give attribution. 
+Welcome to The Game
+Ataraxia is a tabletop role-playing game developed in the legacy of Dungeons & Dragons. This game centers around player created and controlled characters (PCs) that interact with the world through dice rolls mediated by a Game Master (GM.) 
+These rules enable emergent complexity from simple core mechanics, while minimizing coercion and bookkeeping. This is accomplished by integrating the narrative, simulation, and gameplay aspects of tabletop roleplaying games.
+Additional, modular mechanics allow each group to tailor their experience. Collaborative creativity, procedural world generation, and democratic rulings yield a light-to-run but rich-to-play game.  
+Dice Mechanics. All rolls use at least one standard six sided die (1d6). Each die roll reduces to either a Success or Failure for rolls of 4/5/6 and 1/2/3, respectively. Multiple dice can often be utilized to increase the chances of success. All characters’ Stat and Skill values are also denominated in total dice.
+Conflict Cycle. Each gameplay action is a conflict between two or more competing narratives where the winner determines the ultimate outcome.
+Character Creation. Characters are created using a branching Lifepath system, which endows them with Skills, Traits, Connections, and Resources. Every character starts the game by being born into a social class and then follow available leads to determine their life’s course up to the present.
+Stats. Characters possess six Stats: Will, Intellect, Strength, Fortitude, Agility, and Endurance. They can be used in Tests of raw ability and advance through usage.
+Attributes. When summed, a character’s Stats produce their Morale, Vitality, and Stamina values, each of which serves as an independent health pool that can be challenged during the course of play.
+Skills. Skills serve as the primary means for characters to interact with the world for tasks that require more than just raw ability. New Skills can be organically acquired and Skills advance through use.
+Personality. Characters possess defining Beliefs, Traits, Instincts, and Connections which motivate action and produce conflict. Gameplay utilizes character personality through bonuses and integration with Conflict cycle rolls.
+Gear & Equipment. Items grant Advantage by adding a point of success on all Tests to which they are applied; however, characters have limited Inventory slots determined by the sum of all their Attributes.
+Might. The combat system focuses on the effective weapon range between two or more combatants and the struggle for a superior position in the fight.
+Magic. Spells are constructed by combining arcane words to create many unique and powerful effects.
+Divinity. The Divine exists beyond the known limits of Magic, and yet Miracles can alter the fabric of reality and change The World.
+The World. Tarot cards are used alongside lookup tables to procedurally generate terrain, weather, and dramatic scenes with meaningful impact.  
 Dice Mechanics
-Ataraxia uses common six-sided dice; which players roll to determine the outcome of uncertain events in the game. The outcome depends upon the total number of successes the player rolls. 
+Ataraxia uses common six-sided dice (d6), which players roll to determine the outcome of uncertain events within the game. The final result of an uncertain event depends upon the total number of successes the player rolls. 
 Successes: Rolling a 4, 5, or 6 results in a Success.
 Failures: Rolling a 1, 2, or 3 results in a Failure.
-Comparing the total quantity of successes rolled against a target value, known as a “Test”, determines the final outcome. A Test’s difficulty increases with the target value required to pass the Test.
+In a “Test,” players compare the total quantity of successes rolled against a target value to determine the final outcome of an uncertain event. A Test’s difficulty increases with the target value required to pass the Test.
 Root Dice
-Root Dice serve as the basis for all tests in the game. These include: Stat, Skill, and Connection dice.
+Root Dice serve as the basis for all Tests in the game and have an associated integer rank corresponding to the number of dice they utilize. Stats, Skills, and Connection dice are all Root Dice.
 Dice Progression
-All Root Dice can advance through usage. Root Dice advance by one rank when the player rolls the maximum number of successes possible excluding any bonus dice. For example, if a player rolls three successes using a third rank Hunting skill, the Hunting skill increases to fourth rank.
+Root Dice advance by one rank when the player rolls the maximum number of successes possible. For example, if a player rolls three successes using a third rank Hunting Skill, the Hunting Skill increases to fourth rank. Help Dice, Advantage, and Disadvantage do not affect Root Dice progression.
 Bonus Dice
-On occasion, Bonus Dice can be added to a roll. These dice do not increase the difficulty of advancing Root Dice values. Sub-types of Bonus Dice include Inspiration Dice and Exploding Dice.
+Occasionally, Bonus Dice may be added to a roll. Successes with these dice count towards advancing Root Dice; however, failures do not impact dice progression. Subtypes of Bonus Dice include Inspiration Dice and Exploding Dice.
 Inspiration Dice: These dice can be applied at any time to any roll and persist across sessions. 
-Exploding Dice: When a player rolls a ‘6’ while utilizing a magical skill or item—regardless of if the skill or item inherently contains or has been imbued with magic—the player can roll another die. If this Bonus Die also results in a ‘6’, another die can be rolled, ad infinitum. 
+Exploding Dice: When a player rolls a ‘6’ while utilizing a magical Skill or item—regardless of whether the Skill or item inherently contains or has been imbued with magic—the player can roll another die. If this Bonus Die also results in a ‘6’, another die can be rolled, ad infinitum. 
 Advantage & Disadvantage 
-Special circumstances can grant Advantage or Disadvantage on a roll. If a player accrues one or more counts of Advantage and Disadvantage, the total count of Advantages less the total count of Disadvantages determines the final adjustment. Items used to assist in passing a Test inherently grant one Advantage. Players may propose Advantage in a given circumstance; however, they must justify why that would be the case and the DM or party must agree with their reasoning.
-Advantage: Advantage adds one success to the Root Die roll.
-Disadvantage: Disadvantage subtracts one success from the Root Die roll.
-Resistance & Vulnerability 
-Certain items and Traits grant Damage Resistance or Vulnerability Dice. These dice decrease and increase incoming damage, respectively, but cannot overturn failure of a Test. The results of these rolls apply after a Test has completed. If the Damage Resistance Dice reduce incoming damage to zero, the Test resolves to a tie.
-Damage Resistance (R): Successes count against incoming damage.
-Damage Vulnerability (V): Failures count towards incoming damage. 
-Action
-The Action Cycle mediates every interaction between characters and the world. While multiple cycles can be nested within each other as the story demands, all conflict will eventually be resolved as an Action cycle is closed.
-Intent
-Players must clearly express what outcome they intend to occur as a result of their action at the beginning of an Action Cycle. This determines which mechanics apply and how to interpret events when resolved.
-Task
-A Task describes what action a character attempts in order to accomplish their Intent. Tasks must be, finite, quantifiable, and performed by the character; e.g. attacking someone with a sword, forcing a door open, or debating in a court of law. 
-Test
-As described previously, Tests evaluate whether or not a character succeeds at their Task. If a character fails a Test, results can be contested by escalating the level of Conflict. Rolls made against the Test must be based upon a Root Dice value, but other sources of success impact the final quantity of successes.
-Resolution
-All rolls made against the Test resolve to either a Success, Failure, or Null result. A Null result does not fulfill the Intent of any parties involved in the Test. A Success implies the victor’s narrative Intent takes primary significance in the combination of all involved parties’ Intents, Tasks, and Tests to determine the final narrative Resolution.
-Character Creation
+Special circumstances may provide Advantage or Disadvantage on a roll. If a player accrues one or more counts of both Advantage and Disadvantage, the total count of Advantages less the total count of Disadvantages determines the final adjustment. Items used to assist in passing a Test inherently grant one point of Advantage. Players may propose Advantage or Disadvantage in any given circumstance; however, they must justify why that would be the case and the GM or the party must agree with their reasoning.
+Advantage: Advantage adds one success to the final roll total.
+Disadvantage: Disadvantage subtracts one success from the final roll total.
+Bonus Damage &
+Damage Reduction
+Certain items or conditions may grant Bonus Damage (DMG) or Damage Reduction (DR). DMG deals additional damage only after a successful Test roll; similarly, DR can be spent to absorb incoming damage after a Test is resolved. If DR reduces incoming damage to zero, the Test resolves to a Null Result, i.e. a tie.  
+Character 
 Concept
-In Ataraxia, dynamic and deep gameplay emerges from the maturation of characters during their adventures. Character concepts start small and vague, and grow complex and defined across time.
+Dynamic and deep gameplay emerges from characters’ development during their adventures. Character concepts start simple and unrealized, but become complex and incarnate across time. A character’s personality, behavior, and motivation are discovered and refined throughout gameplay, but begin with a primary character concept.
 Lifepaths
-A lifepath constitutes an epoch in a character’s life, usually occurring over several years, that endows the character with skills, traits, connections, resources, and a unique history. Players begin creating their characters by selecting the lifepaths leading up to the point at which gameplay starts.
+A Lifepath constitutes an epoch in a character’s life, usually occurring over several years, that endows the character with Skills, Traits, Connections, Resources, and a unique history. Players begin creating their characters by selecting the Lifepaths leading up to the point at which gameplay starts.
 Stats
-Stats constitute a character’s core physical and mental ability across six categories. They build the Attribute health pools and can be Tested in the Action Cycle in situations where no skill is applicable.
-To determine a character’s Stats, players first roll 6d6. Then, players assign each of the rolled values to a Stat.   Alternatively, players can opt for a “point-buy” system, in which they select a value between one and six for each of their characters’ Stats out of a total of 20 points. Stats advance using Root Dice advancement rules.
+Stats constitute a character’s core physical and mental ability across six categories. Stats determine a character’s Attribute health pools and inventory space, and may also be Tested in the Conflict cycle. 
+To determine a character’s Stats, players first roll 6d6. One rolled value is then assigned to one Stat at the player’s discretion. Alternatively, players may opt for a “point-buy” system, in which they select a value between one and six for each of their characters’ Stats out of a sum of 20 points. Stats are considered Root Dice and progress through use. Additionally, Stats act as a “call-on” pool up to the maximum rank of the Stat.
+
 Will 
-Will represents a character’s mental tenacity, empathy, focus, and social intelligence. It serves as both a mental and a social stat, and is used in Tests involving character, determination, charm, etc.
+Will represents a character’s mental tenacity, empathy, focus, and social intelligence. It serves as both a mental and a social Stat used in Tests involving character, determination, charm, etc.
 Intellect
 Intellect represents a character’s ability to process new information, retain knowledge, and assess complex novel situations. It is used in Tests involving memory, calculation, insight, pattern recognition, etc.
 Strength
-Strength represents a character’s physical power and capability to exert force in the world. It is used in Tests involving weight lifting, contests of strength, forcing past obstacles, etc.
+Strength represents a character’s physical power and their capability to exert force in the world. It is used in Tests involving weight lifting, contests of strength, forcing past obstacles, etc.
 Fortitude
-Fortitude represents a character’s physical mettle, durability, and the ability to withstand trauma or wounds. Fortitude is used in Tests involving resisting poison or pain, surviving the elements, etc.
+Fortitude represents a character’s physical mettle, durability, and their ability to withstand trauma or wounds. Fortitude is used in Tests involving resisting poison or pain, surviving a blizzard, etc.
 Agility 
-Agility represents a character’s physical coordination, as well as their ability to deftly alter momentum. Agility is used in Tests involving reflex, balance, etc.
+Agility represents a character’s physical coordination, fine motor control, as well as their ability to deftly alter momentum. Agility is used in Tests involving reflex, balance, precision, etc.
 Endurance
-Endurance represents how fast a character moves and how long they can sustain that movement. Endurance is used in Tests involving chases, races, prolonged effort, etc.
+Endurance represents how fast a character can move and how long they can sustain that movement. Endurance is used in Tests involving chases, races, prolonged effort, etc.
 Attributes
-Attributes constitute the three health pools challenged during the gameplay, and are calculated from a character’s Stat values. Failing a Test damages one of a character’s Attributes; resting recovers the damage a character takes to their Attributes. Characters acquire a semi-permanent Trait if an Attribute is reduced to zero.
+Attributes constitute the three health pools challenged during gameplay and are calculated as the sum of two character Stat values. Failing a Test may damage one of a character’s Attributes. Characters acquire a Trait if an Attribute is reduced to zero; however, characters cannot die unless the player consents to their character’s death. 
+Resting allows for a character to recover from damage taken to their Attributes, but doing so requires certain conditions to be met. Imbibing Substances can temporarily boost Attributes or aid in recovery rolls.
 Morale
 Morale measures a character’s mental state. Stressful situations can impact a character’s psyche, which manifests as damage to their Morale. These situations range from loss of a spirited debate to witnessing the true form of an eldritch abomination from beyond the veil. 
 Vitality
 Vitality measures a character’s ability to overcome pain and maintain physical health while wounded. Physical injury damages a character’s Vitality. An arrow to the knee, falling from a ledge, and dragon fire would all damage a character’s Vitality.
 Stamina
 Stamina measures a character’s ability to carry on when weary, react quickly to danger, and outrun threats. Actions that result in exhaustion or fatigue damage a character’s Stamina, such as running a marathon, swimming in turbulent water, and being exposed to the elements.
- 
-Skills
-In Ataraxia a skill is a specialized field of knowledge, experience, or technique known by the character. A skill allows a character to pursue their Beliefs in the world through Tests that involve expertise or knowledge beyond raw natural ability. Examples of skills include Animal Husbandry, Mending, Sorcery, Sword, and Ugly Truth.
-Lifepath Skills
-Each lifepath is associated with a list of skills which represent what the character has learned during their time in that path. The initial rank of skills gained through the lifepath system is determined by totaling the number of times a skill is acquired across all of a character’s lifepaths and converting that total to the root dice rank for the corresponding skill. For example, a character that had three lifepaths with the ‘Sword’ skill would start the game with that skill at root die rank three.
-Learning New Skills
-New skills can be learned at any point during play. These skills start at an effective rank 0 with one free bonus die for tests, and must advance to rank 1 before they are considered Root Skills.
-Skill Progression
-Skills advance using Die Progression rules. If a skill roll receives additional die from Call-On Skills, advancement is still possible, however each new dice also must roll successfully for the skill to advance. Help dice do not count towards or against advancement.
-Magic Skills
-Magical skills and skills using a magical item function with exploding dice using the Bonus Dice rules. 
-Wises
-Wises are the experiences gained through a character’s lifepaths that can be called upon to provide more information about the game World, either through the DM or by player invention; e.g. Sailor-Wise, Knight-Wise. Skill Wises can only be used as a Root Die in Variable Tests.
-Call-On Skills & Help
-Players can add dice to their Test Roll by calling on other related Root Dice or receiving Help from an ally with a related Root Dice. Each Call-On or Help source adds one additional dice to the Test roll without limit, so long that each addition must be explained and justified in its application. 
-Personality
-While the Action cycle is the primary means of interacting with the world, the motivation underlying characters’ actions play a large part in who they are and the actions they will take.
-Beliefs, Instincts, Traits, and Connections represent the personal aspect of the characters, and also allow an opportunity for the player to incorporate these aspects into gameplay Actions. As the characters develop their personality can change through facing victories and defeats. 
-Beliefs 
-Beliefs are the core principles and ideas that motivate both the player and the character. A major crux of gameplay drama is how these stated beliefs come into conflict with other Beliefs and The World. They function as a method for players to specify aspects of the game that interest them, and for the DM to engage and challenge those interests.
-In order for beliefs to be effectively challenged they must first be well articulated and communicated. The framework for several Beliefs are detailed below:
-•	A Belief about the current action or task ahead.
-•	A goal-oriented Belief about helping, hindering, or learning about a character in the world.
-•	A non-goal-oriented ethical statement. 
-Instincts 
-Instincts are priorities and reactions for the character. They are based on the character’s experiences and have a tangible function. An Instinct is essentially a logical “if/then” or “always/never” statement for the character’s behavior. The player is allowed to determine these Instincts for their character when not in the specified trigger condition. Thus the players have a hedge against future circumstances that fall within the specified criteria, e.g. “If surprised, then I draw my sword.”
-Traits 
-Traits are quirks and odd abilities that the character acquires through the course of their life. A player starts by selecting traits during character creation, but they can also be acquired through gameplay. Whenever a character drops to zero in an Attribute or rolls a total failure in a Magic check they acquire a Trait related to the circumstances surrounding their defeat. These are not inherently positive or negative, but serve to make the character more complex and interesting. Traits can also be gained or removed as a result of narrative gameplay Actions and DM or group consensus.
-Connections
-Connections are an abstraction of the relationships that the players bring with them from their lifepaths and those that are developed during the course of play. The application of relationship Connections is fairly broad and can range from asking a favor from a friend, seeking temporary lodging in a settlement, or calling in a favor from a government official. Connections are considered Root Dice, advance using Dice Progression rules, and are subject to the same restrictions as Wises.
-Inspiration
-Gameplay that aligns or directly challenges a Player Character’s Beliefs, Instincts, Traits, or Connections can be rewarded with an Inspiration Die. Inspiration can be awarded at any time by either the DM or through nomination by a player with the consensus of all players. These dice can be used on any rolls and function using Bonus Dice rules.
-Gear, Equipment & Property
-Gear and equipment are another critical aspect of a character’s personality and capabilities. Items that are used in the course of a Test grant a point of Advantage. There are a number of points to consider when using Items; the application of each item must be justified for the intended Task, items often cost precious coins that could be spent recovering in the safety of a town, characters have limited inventory space and must determine what items are the most valuable to carry, and Items have a chance of becoming damaged through use.
-Conflict
-The conflict system is designed to seamlessly be integrated in the core Action cycle without any boundary between what would traditionally be considered ‘role play’ and ‘combat’ sections of gameplay. The intent is to shift the focus from tactical positioning to balancing risk and reward.
-General Rules
-When there is a discrete target in a Test, rolls below the target result in damage to the appropriate attribute equal to the difference between the roll and the target. Generally, social conflict damages Morale, physical conflict damages Vitality, and environmental conflict damages Stamina. These distributions can change in light of context or in the Duel level of conflict where each can be targeted individually
-Damage accrues after each test cycle. For example, if a series of cascading rolls are taken the difference in values is subtracted from the loser for each opposed roll cycle.
-Escalation Methodology
-All tests are built on the foundations of the previous test, and a test can be escalated to a higher level at any point by any party involved in the test. In practice this is analogous to doubling down and increasing the stakes at play in the test. Each new level test comes with a chance to reverse the players fate, but also a risk of further damage. Conflicts cannot be de-escalated down the chain and can only stop when a resolution has been achieved by one party either yielding or reducing an attribute to zero.
-Group Conflict
-All conflict is fundamentally between a single primary character and an opposing force. In situations where multiple characters are involved other players can contribute Help to the primary player to bind their fate together. Players who have elected to bind their fate together share both victories and defeats. In the event of a failed Test, damage dealt is totaled and distributed internally to the characters involved up to the quantity of help they provided. The character acting in the primary role will change dynamically as the narrative demands; however, it can also be determined following turn order or initiative rules. 
-Free Test
-No roll is required for Free Tests. These are actions like picking up a light object or walking across the room.
-Variable Test
-Variable Tests are open-ended skill tests that pose no direct consequence to the PC for low rolls. These are typically uncontested actions that are only defined by the success of one party such as asking a stranger for help, jumping on flat ground, or fishing.
-Static Test
-Static Tests are made against a discrete value and constitute a risk to the PC following general damage rules. These are actions such as bribing a guard, leaping over a crevice, or fording a river. The player must meet or exceed the stated target value to succeed at the test. 
-Opposed Test
-Opposed Tests are made when the opponent is an intelligent agent using their own Root Dice. Both parties roll and compare successes. These are actions such as a short argument, arm wrestling match, or foot race. If the rolls result in a tie there is either a null outcome where neither stated Intents are fulfilled, or one party elects to escalate the conflict. 
-Cascading Test
-Cascading Tests are an escalation of Opposed Tests. In the event the loser of an Opposed Test contests the result they may choose a previously unused skill and repeat the process. The victor of the previous Opposed Test can either keep their previous result or reroll using the same Root Die. Examples of this are a spirited debate, a street fight, or a cross-country hunt.
-Advanced Tests
-This section offers more options for the player to alter their numbers in risk/reward gambles. These can be used in any combination and at any test level
-Attack
-An Attack is an action to oppose an adversary by force. Through risk and self-sacrifice players can burn Attribute points to add successes to a Test roll before the result are known. Examples include dropping your guard and lunging with a sword, pushing oneself beyond limits in a race, or accepting a contested point in an argument in order to gain a stronger position. 
-Defend
-Defense is an effort to drive danger or attack away, to maintain support in the face of argument or criticism, or to prove a point valid. Players can withhold ‘damage’ from their current Test after the it has been resolved as a point of Advantage to their next roll. Examples include parrying a blow, taking a moment to catch your breath, or holding to a strong point in an argument.
-Maneuver
-Maneuvers are an alteration position or evasion in the value of play, be it in range or relation. Players can gamble by sacrificing root dice during a Test before the result are known, which then grant a point of Advantage to their next roll. Example include a feign in a duel, taking a shortcut in a race, or changing the frame of a debate.
 Defeat
-Attribute Depletion
-In the event that a character drops to zero in an Attribute during an Action cycle, they lose the ability to participate in opposed Tests until the Attribute has been restored. When an Attribute recovers above zero the character gains a Trait corresponding to the nature of the Defeat. These are typically DM determined, but can be proposed by the players as well.
-Death
-Players must be willing for their character to die and consult with the DM when they believe that an event should result in the death their character.
+Defeat occurs upon reduction of one or more Attributes to zero. Once defeated, characters lose the ability to lead a Test until their Attribute(s) have recovered. Recovery also conveys a Trait, which reflects the circumstances of the Defeat. The GM typically determines these Traits, guided by players’ suggestions.
+Character death is voluntary, as such players must consent to their characters’ deaths. If a player believes that an event should result in their character’s death, they must consult with the GM on the specifics and how it impacts the story. 
+Alternate rules for a more lethal style of play can be found under the Conflict - Death section.
 Rests
-Rests offer characters an opportunity to replenish lost Attribute pools. If the conditions required to heal are met, the rate of recovery is determined by rolling the remaining dice for an Attribute and adding successes back to the pool up to the maximum value. In the event that an Attribute has been reduced to zero during the course of play, the character is granted a free recovery dice provided the rest requirements have been met.
-Requirements
-Characters must have food, water, and shelter for in order to rest and recover. If these are unable to be acquired the character does not gain any benefits from resting and suffers negative effects. Characters may rest multiple rest cycles (days, months, years) if the conditions to do so are met. This can either be done in the wilderness or in the safety of a town depending on the capability and resources of the characters involved.
+Rests offer characters the opportunity to replenish lost Attribute health pools. If an Attribute has been reduced to zero during gameplay, a free recovery dice is granted if the requirements to rest and recover that Attribute have been met.
 Recovery
-Morale is decreased by stress, and restored with rest. Characters require shelter & sleep to enable recovery. A day without sleep decreases Morale by one point.
-Vitality is decreased by injury, and restored with food. Characters require one ration of food to enable recovery. A day without food decreases vitality by one point.
-Stamina is decreased by fatigue, and restored with water. Characters require one ration of water to enable recovery. A day without water decreases Stamina by one point.
-Substances
-Various substances can be imbibed to aid with Attribute recovery while resting. Active substances immediately grant a temporary point to the appropriate Attribute pool, and the effects last until the next rest cycle. Passive substances grant Advantage on recovery checks for the corresponding Attribute. Multiple doses do not stack within any given rest cycle.
-Light
-Light is a resource that extends to a certain number of characters per source and is expended over time. A source of light improves visibility by one rank. Candles provide dim light for one character and cannot be moved, torches provide dim light for two characters, and lanterns provide dim light for a whole group. Magic is unique in that it is dynamic, and cannot be put out by natural means.
-Bright Light 
-Bright Light is considered anything ranging from daylight to a well-lit tavern. Characters rolls are unaffected when in the presence of Bright Light
-Dim Light 
-Characters not completely covered by light or darkness are considered to be in dim light. PC’s rolls are made at Disadvantage when in Dim Light
-Darkness 
-In total darkness like what is found in deep caves and moonless nights, characters cannot attempt any Test that depends on sight. Of the remaining available tests, in addition to penalties from dim light, characters gain a point of Vulnerability to all attributes.
+Morale is decreased by stress, and recovers with sleep. Characters require sheltered sleep to enable recovery. A day without sheltered sleep decreases Morale by one point.
+Vitality is decreased by injury, and recovers with food. Characters require one ration of food to enable recovery. A day without food decreases Vitality by one point.
+Stamina is decreased by fatigue, and recovers with water. Characters require one ration of water to enable recovery. A day without water decreases Stamina by one point.
+Skills
+Skills constitute specialized knowledge, experience, or techniques known by the character and allow them to pursue their Beliefs in the world. Examples of Skills include: Bargaining, Knives, Carpentry, Falsehood, Brawling, Faith, Sorcery, Archaeology, and Ugly Truth.
+Lifepath Skills
+Each lifepath conveys Skills, which characters learn during their time on that path. The initial rank of each Skill gained through the lifepath system is determined by totaling the number of times that Skill is acquired across all of the character’s lifepaths. For example, a character that had three lifepaths with the ‘Sword’ Skill would start the game with a third-rank Root Die for the “Sword’ Skill.
+Expertise
+Expertise constitutes knowledge gained through a character’s lifepaths that can be called upon to provide information about the world, either through the GM or by player invention. Each lifepath has a corresponding Expertise that starts at first rank and advances through use.
+Call-On Skills & Help
+Players can add to their Root Dice roll in a Test by calling on related Skills or receiving Help from an ally with related Skills. Each Call-On Skill or Help source adds one additional die to the Test roll without limit, so long as each addition can be explained and justified. 
+Magic Skills
+Magical Skills and Skills utilizing a magical item use the exploding dice rules outlined in the Bonus Dice section. 
+Learning New Skills
+New Skills can be learned during play. Unknown Skills start at an effective zeroth-rank, with one bonus die granted for Tests. To learn a previously unknown Skill, the bonus die roll must result in a Success. At this point, the Skill is learned and advances to a first-rank Root Die.
+Skill Progression
+Skills advance using Dice Progression rules. If Call-On Skill Dice support the Root Dice roll in a Test, advancement of the Skill is still possible; however, each new die must also result in a Success. Help dice do not count towards or against advancement.
+Personality
+Characters’ Beliefs, Instincts, Traits, and Connections reflect their unique identities, motivations, and histories. Players are encouraged to incorporate these aspects into their characters’ gameplay Actions. As characters face victories and defeats, their personality develops across time. 
+Beliefs
+Beliefs constitute the core principles and ideas that motivate both the player and the character. These take the form of short philosophical, ethical, or actionable statements that convey topics of interest or potential scenarios for incorporation into the narrative. By challenging their characters’ Beliefs during gameplay, players help direct a campaign’s story and tone. Challenging a Belief not only results in its loss, alteration, or reaffirmation, but also awards the character with Inspiration proportional to the significance of the Belief challenged. 
+In order to be effectively challenged, Beliefs must first be well articulated and communicated. Examples include:
+	Through faith in God, Man can attain salvation and eternal life.
+	Do not hurt others in ways that you yourself would find hurtful.
+	I must avenge the murder of my father.
+Instincts 
+Instincts constitute the character’s impulses, inclinations, and reactions. They are based on the past experiences and have a practical function. Instincts can be conceived of as logical “if/then” or “always/never” statements for the character’s behavior, e.g. “If surprised, then I draw my sword.” Players can hedge against future circumstances at any time by specifying an Instinct, but new Instincts cannot be specified in the same moment that the trigger condition occurs.
+Traits 
+Traits constitute quirks and odd abilities that characters acquire throughout the course of their life. During character creation, players select a number of Traits equal to their characters’ lifepaths, e.g., a character with five lifepaths would have five Traits. 
+Traits can also be acquired narratively or through gameplay. Whenever an Attribute drops to zero or a Magic check results in a total failure, the instigating character acquires a Trait related to the circumstances of their actions. These Traits are not inherently positive or negative, and can be called on to grant Advantage or Disadvantage in relevant situations. Once a Trait has been acquired it can be removed through gameplay Actions and GM/group consensus. 
+Connections
+Connections constitute relationships that characters establish throughout their lifepaths and the course of play. Connections can be utilized in broad contexts, ranging from asking a favor of a friend to imploring for political action from a local guild. Connections are considered Root Dice and advance using Dice Progression rules. During character creation, each Connection starts at first rank and advances by one rank for each related lifepath.
+Inspiration
+Actions that utilize or challenge a character’s Beliefs, Instincts, Traits, or Connections provide Inspiration Dice. Negative effects, consequences, and complications provide more Inspiration Dice than resolutions. Inspiration can be awarded at any time by either the GM or unanimous player consensus. Inspiration can be spent to grant Boons.
+Boon	Cost
+Inspiration bonus dice	1
+Gift one Inspiration dice	2
+Gain a Trait	3
+Remove a Trait	5
+Expand a Root Die success range^ {3,4,5,6}	8
+Make a Root Die magical*
+(exploding d6s)	12
+Gear, Equipment & Property
+Gear and equipment contribute to a character’s personality and capabilities. Characters have limited inventory space and must determine which items to transport with them, leaving all others behind. 
  
 Lifepaths
-A character is built step-by-step, from birth through the tumult of life, up to the day their new calling – The Adventure – enters their life.  A lifepath constitutes an epoch in a character’s life, usually occurring over several years, that endows the character with skills, traits, connections, resources, and a unique history. Players begin creating their characters by selecting the lifepaths leading up to the point at which gameplay starts.
-Please refer to Burning Wheel for a full lifepath list. (http://charred-black.herokuapp.com/#/)
-Born Setting
-Character begins their journey by being born into a particular setting which constitutes the first Lifepath taken during character creation. This represents not only the character’s actual birth, but the social and economic setting where they spent their childhood.
+Players begin to develop their characters by selecting the lifepaths leading up to the moment at which gameplay starts. Each character is built step-by-step, beginning at their birth and continuing through the epochs of their life. 
+Complete lifepath list link:
+https://docs.google.com/spreadsheets/d/13eDrdlENhgEpoKKKfYvcWultb81Uxut2qtYSfFra4nc/edit?usp=sharing
+Setting
+While Ataraxia does not have an explicit setting, the lifepaths and rules imply certain societal structures. Most classes, professions, and occupations of the Middle Ages are represented as lifepaths as an analog to a complete historical society.
+Society
+Social Structure: Ataraxia is modelled on historical societies and the lifepath system preserves much of their features, including social classes or caste systems; hereditary nobility; military ranks; clergy titles; et al. As such, the lifepaths form an intricate web to be navigated during the course of a character’s life. The station into which a character is born serves only as the starting point from which they move through the rungs of society.
+Language: Player-created characters all speak the common tongue (“common”); however, only those trained in reading and writing are considered literate. While most individuals in the World speak common, enclaves, ethnic groups, and the formally educated may also speak foreign languages.
+Historical Period
+The society and technological baseline assumed by the lifepaths in Ataraxia roughly correspond to sixteenth century Europe, Asia, and Africa. However, some anachronisms intentionally exist to enable compatibility with most fantasy time periods. Lifepaths, skills, or items that conflict with an imagined setting can be removed or explained as technology from a more advanced land far away.
+Humanity
+To preserve the strangeness and intrigue associated with the World’s most fantastical elements, only human characters can be played. Characters are meant to be real people with families, experiences, and motivations that find themselves challenged by antagonists, society, the environment, and the supernatural.
+The Fantastical
+Monsters: Fearsome mythical beasts and creatures of whispered legend lurk in the wilderness and the ruins of Man that civilization has forgotten.
+Magic: Forbidden practices of dark sorcery, rituals invoking ancient gods, monsters summoned from orthogonal dimensions, sites of untold power, relics bound with eldritch energies; occult orders and esoteric cults harness the arcane powers of magic to alter the fabric of reality.
+Mystery: Faeries malevolent and kind, subterranean dwarves separated wholly from the surface, sun-scorched desert djinn, and extraterrestrial phantasms from the stars; while humans most prolifically populate the lands, entities of equal or greater intelligence may exist in The World. 
 Navigation
-Once a Born Setting has been selected character’s follow one of the Leads available to determine the path they take in the world. Players may select from the current and previous lifepath Leads for their next lifepath. 
-Players may always select one of the Leads from the lifepath they were born into as well as the leads from the Born Outlaw lifepath.
+Each lifepath has one or more Leads, which reflect subsequent opportunities for growth and change. New lifepaths are chosen from their predecessors’ list of Leads to build a character’s history.
+Total Lifepaths
+To determine the total lifepaths taken when building a character, the GM and players can unanimously agree upon a static integer between 2 and 12 for all characters. Alternatively, 2d6 can be rolled for each character to randomly determine the total number of lifepaths. Characters with more lifepaths are generally older and more experienced.
+Born Lifepath
+Characters begin their journey by being born into a particular heritage, which constitutes their first lifepath during character creation. This lifepath not only reflects the character’s actual birth, but also the social and economic setting in which they spent their childhood.
+Additional Lifepaths
+Once the “Born” lifepath has been selected, additional lifepaths can be acquired up to the total established before gameplay begins. If the narrative involves significant downtime between adventures, characters may utilize this time to pursue a new lifepath.
+Outcast: When choosing a new lifepath, characters may always take any of the Leads from Born Outcast.
+Fork: Leads from the previous lifepath may be taken to change course without following the current lifepath’s Leads.
+Repeat: Lifepaths may only be repeated once if encountered again as an available Lead.
 Elements
-Each lifepath grows the character experiencing it, and grants them Time, Traits, Resources, Stat points, Skills, Skill Points, and Settings or links into new lifepaths. As players grow their character across multiple lifepaths each element is added to a total which is used during the start of play.
+Lifepath Title
+Each lifepath grants Expertise related to the knowledge gained through it, recorded in shorthand as the lifepath’s Title. Each Expertise Title starts at Root Die rank 1 and advances through usage.
 Time
-The time column indicates how long in years a particular lifepath takes to complete. After all lifepaths have been chosen, years are totaled to determine the age of the character.
-Resources (gp)
-Players use resources in the form of gold pieces (gp) acquired and saved through the course of their lifepath. These can be used to purchase material possessions, land, and property. 
+After all lifepaths have been selected, the years spent on each path are totaled to determine the character’s age.
+Resources
+Characters acquire monetary resources in the form of gold pieces (gp) during the course of their lives. These gold pieces can be used to purchase gear, equipment, services, and property. The value given for each lifepath represents the character’s total savings across that path and not their total earnings. Wages are the daily pay in coin (cp) for any given lifepath. 
+Traits
+Characters gain one Trait for each lifepath acquired. As characters age, their Traits color their Personalities.
 Skills
-Each lifepath presents a set of skills that are learned during the duration of that lifepath. Each duplicate skill acquired adds an additional rank to the particular skill.
-Leads*
-Where life leads is strange and unpredictable. Often a character cannot decide the path ahead of them and must follow life’s leads. In character creation a lead is a possibility or opportunity to change. 
- 
+Characters learn a set of Skills over the duration of each lifepath. Each duplicate Skill encountered in later lifepaths adds one additional rank to that particular Skill. Unwanted Skills can be sacrificed in their entirety for one free Skill point. Only one of these free Skill point may be added per remaining Skill. 
+Leads
+Leads reflect the set of subsequent lifepaths available from a character’s current lifepath.  
 Gear & Equipment
 Items
-Items impart Advantage when used as part of a skill roll. Like the Call-On feature, the applicability of the item used must be justified. Multiple items can be used on a single Test if the use each can be reasoned.
+Items convey one point of Advantage when utilized to support a roll. As with Call-On Skills, a reasonable justification must support the item’s applicability. Multiple items can be utilized if each item can be justified.
 Inventory
-Some items are consumable and light enough that multiples can fit into a single inventory slot. These are indicated by a (x) marker where x is the number of uses in a stack. Conversely, some heavy items occupy more than one inventory slot and are indicated as such with a [x] marker with x corresponding to the number of slots taken up. For rough approximations an inventory slot can take up to around 3 lbs. of weight.
-Total inventory slots are determined by the sum of Morale, Vitality, and Stamina. Characters carrying more items than their total inventory slots allow accrue a point of Stamina Vulnerability for every item inventory slot over their limit.
+The sum of maximum Morale, Vitality, and Stamina determines total available inventory slots.
+Most items consume one inventory slot. Some items, however, are light enough that more than one can fit into a single slot. These items include a (x) marker in the tables below, where x represents the usable item quantity per inventory slot. Analogously, heavy items occupy more than one inventory slot and include a [x] marker, where x corresponds to the quantity of slots required to carry that item. For rough approximations, one slot weighs three pounds.
+Characters carrying more items than their inventory slots allow accrue one point of Disadvantage per additional slot over their total inventory.
 Coins
-Copper coins are used as the base currency, and higher value coins can be used when appropriate. Silver coins are worth 20 copper coins and gold coins are worth 1000 copper coins. Coins also occupy inventory slots in stacks of (50) coins. For rough approximations a copper coin has around the purchasing power of a U.S. dollar.
+Copper coins, or copper pieces (cp), represent the base currency unit. Silver coins (sp) and gold coins (gp) can also be utilized for higher value transactions. One silver coin equals 20 copper coins’ worth, whereas one gold coin equals 1,000 copper coins’ worth. Regardless of type, 50 coins consume one inventory slot. 
+For rough approximations, one copper coin has equivalent purchasing power to one U.S. dollar, provided the currency is sound.
 Degradation
-If during the course of a Test the player rolls a total failure while using an item, the item breaks and must be repaired before it can be used again. Not all items will be able to be repaired, but generally the cost to repair an item is half of its market value.
+If a player rolls a total failure while using one or more items, all items become broken and must be repaired before additional use. While not all items can be repaired, repairs generally cost half of an item’s market value.
 Magic Items
-Magic items are rare pieces of Gear & Equipment that have been imbued with arcane energy to produce both strange and powerful properties. Such items grant Exploding Dice in any Test they are used in, cannot be Degraded, and often grant special abilities related to the spell used to create them.
+Magic items constitute rare Gear and Equipment and have been imbued with arcane energy to produce strange and wonderful effects. Such items grant Exploding Dice when utilized, cannot be Degraded, and store a single magical spell.  This spell may be cast at any time, after which the item returns to its original, non-magical state.
 Tools & Gear
-These are devices or implements that can be used to carry out a particular function. In practice they include crafting tools, adventuring gear, and household items.
+Tools and Gear constitute devices and implements that accomplish a particular function. Among others, this includes crafting tools, adventuring gear, and household items.
 Light
-Light is a resource that extends to a certain number of characters per source and is expended over time. A source of light improves visibility by one rank.
+Light sources, which improve visibility by one rank, extend to a given number of characters and extinguish once their fuel source has been consumed. Candles provide light for one character and cannot be moved. Movable torches and lanterns provide light for two and six characters, respectively. Magically-created light sources have no given number of characters to which they extend, and cannot be extinguished naturally.
+Bright Light 
+Daylight and otherwise well-lit areas have Bright Light. Bright Light does not impact characters’ rolls.
+Dim Light 
+Moonlit nights and sparsely-lit areas place characters in Dim Light. When in Dim Light, all Rolls incur one point of Disadvantage.
+Darkness 
+Deep caves and moonless nights plunge characters into Darkness. All Rolls incur two points of Disadvantage.
 Clothing
-Clothing serves to protect a character from the elements as well as to indicate the social status of the wearer.
+Clothing not only protects characters from the elements, but also displays their social status. Individual clothes cannot be stacked; however, cloaks and furs can be worn to supplement a character’s primary wardrobe. 
 Lodging
-Locations in towns and cities offer the chance for characters to recover from their stress, injuries, and exhaustion in a safe location at the cost of coin rather than skill and risk. 
+Inns, taverns, and other local businesses offer the opportunity to recover from stress, injuries, and exhaustion in a safe location for the price of coin. These lodgings, regardless of their opulence or squalor, grant the ability to rest.
 Food & Drink
-Whether just purchasing enough to subsist while in town or stocking up for an arduous journey, food and drink are essential for recovery and survival.
+Whether purchasing just enough to subsist in town or stocking up for an arduous journey, food and drink are essential for recovery and survival. Sumptuous food and drink provide no additional bonuses for recovery, but offer a break from stale bread and grog. 
 Substances
-Various substances can be imbibed to aid with recovery in either Morale, Vitality, or Stamina. Multiple doses do not stack within any given rest cycle.
+Imbibing certain substances briefly boosts Attributes or aids in recovery. However, multiple doses cannot be stacked for additional bonuses within any one Rest cycle. 
+Active Substances (A): Active substances grant one temporary health point to a corresponding Attribute until the next Rest cycle.
+Passive Substances (P): Passive substances give one point of Advantage on recovery checks for a corresponding Attribute.
 Luxury Items
-Some items, either by the nature of their rarity or difficulty in producing, are considered Luxury Items and can only be found in areas of wealth and culture.
-Armor
-Armor functions to reduce or mitigate incoming damage to an Attribute through Damage Reduction. This extra protection often comes at the cost of extra weight. 
+Some items, either due to their natural rarity or their difficulty to manufacture, are considered Luxury Items. These items can only be purchased and sold in populous cities or through connected merchants and smugglers.
 Weapons
-A weapon is a type of tool used with the purpose to injure, defeat, or destroy an opponent. Like all items, weapons may be used in a Test to grant a point of advantage provided their use can be justified. Each weapon has an effective range that corresponds to the Martial Combat rule system and an Armor Penetration (AP) value. 
-AP damage values are only applied to counter Vitality Resistance in   a Test roll; e.g. a Test made using a crossbow with a roll of 4 against an armored opponent with a roll of 3 and Vitality Resistance roll of 1 would do 1 damage.
-Property & Services
-For costs exceeding a character’s current finances, consider taking out a loan with a nearby Noble or Merchant.
-Livestock
-Livestock are domesticated animals used to produce labor and commodities. Some animals are able to act as beasts of burden by carrying characters and items
-Hirelings
-The world is full of people looking to market their trade in exchange for some coin. As characters grow in wealth Hirelings can be contracted to aid them in their efforts.
-Transport
-Barriers of land and sea can be overcome by paying for passage across established routes. These are for one way trips and transportation of goods.
-Ships
-A sailing ship is a sea-going vessel that uses sails mounted on masts to harness the power of wind and propel the vessel to new lands and opportunity.
-Property
-Property constitutes the land plus anything growing on it, attached to it or erected on it, including man-made objects, such as buildings, structures, roads, sewers, and fences. 
+Each weapon has an ideal Range and inflicts Bonus Damage when utilized in a successful Test. Only one weapon can be used at a time; however, weapons can be freely exchanged between Conflict cycles.
+For more details, see the Might section.
+Armor
+Armor offers Damage Reduction. Each set of armor has a maximum amount of damage it can absorb before it becomes Degraded. Only one suit of armor can be worn at a time.
+For more details, see the Might section.
 Tools & Gear
 Item                  Inventory	Cost
-Abacus	40
+Abacus	50
+Arrow/Bolt (20)	60
 Axe, ice	100
 Axe, wood                           	40
 Bear trap                              [5]	200
@@ -246,19 +412,19 @@ Black grease (1)	5
 Black powder (10)	50
 Blanket, winter                       	20
 Block and tackle                  [5]	40
-Book, blank                         	150
-Book, reading                      	300
+Book                     	200
 Bottle, glass	10
 Bucket                                    [2]	5
+Bullet (20)	100
 Caltrops (1)	15
 Cards, deck of	10
 Chain, 10 ft.                            [2]    	25
 Chalk (10)	10
 Chisel	20
 Compass	250
-Cookpots                               [2]	35
+Cookpot                               [2]	35
 Crampons, ice cleat	25
-Crowbar                               [2]	15
+Crowbar                              [2]	15
 Dice set, loaded	10
 Drill                                        	50
 Face paint/makeup (10)	200
@@ -267,7 +433,6 @@ Glass marbles (1)	10
 Glue (5)	25
 Grappling hook	40
 Hammer                                 	20
-Holy water (1)	40
 Horn	40
 Hourglass	300
 Incense (5)	10
@@ -280,9 +445,9 @@ Manacles	40
 Metal file	10
 Mortar and pestle	35
 Musical instrument              [2]	500
-Nails (20)	20
+Nail (20)	20
 Net	30
-Parchment (1)	10
+Parchment (5)	50
 Perfume (10)	100
 Pickaxe                                 [2]	40
 Pulley	10
@@ -295,42 +460,42 @@ Scale, merchants                      	250
 Sewing kit	15
 Shovel                                    	25
 Soap (20)	5
-Spike, iron 	10
+Spike, iron	10
 Stove, portable                      [2]	50
 Tar, Pot (1)                           [2]     	10
 Tent, 3 man                             [2]	200
 Tent, personal                         	75
 Twine, 300 ft.	5
-Water skin 	20
+Water skin (1)	20
 Whistle	10
 Light
-Candle (10)	1
+Candle (10)	10
 Flint & Steel	5
-Lantern                                  [2]     	50
-Lamp Oil (10)	10
+Lantern                                  [2]     	250
+Lamp Oil (10)	50
 Tinderbox (20)	10
-Torch (3)	5
+Torch (3)	15
 Clothing
 Merchant clothes	1,000
-Noble clothes	5,000
+Noble clothes	10,000
 Peasant clothes	100
 Wool cloak	200
 Royal clothes	25,000
 Winter Furs	500
 Lodging
-Castle	5000/day
-Cottage	250/day
+Castle	1000/day
+Cottage	100/day
 Hospital	250/day
 Hovel	10/day
-Inn	50/day
-Merchant’s house	500/day
-Villa	1000/day
+Inn	25/day
+Villa	500/day
 Workshop	100/day
 Food & Drink
 Ale (2)	10
 Animal Feed (5)	10
 Bread, 1 loaf  (2)	5
 Cheese, 1/2 lb. (2)	30
+Chicken, whole (2)	20
 Cider, 1 gallon (2) 	5
 Cod, whole (3)	50
 Dried fruit (2)	30
@@ -342,130 +507,169 @@ Substances
 Alcohol (5)               Morale (A)	75
 Cannabis (5)          Vitality (P)	150
 Coffee (5)              Stamina (P)	50
-Opium (5)                Vitality (A)	150
+Opium (5)                Vitality (A)	500
 Psilocybin (5)           Morale (P)	200
-Tobacco (5)            Stamina (A)	50
+Tobacco (5)            Stamina (A)	75
 Luxury Items
-Astrolabe	1,000
-Calculator, mechanical	2,500
-Clock, mechanical	1,500
-Gem, precious	5,000 
-Jewelry, gold	2,000 
-Mirror, silver	750
-Silk, fine	1,000
-Spectacles	750
-Spices, 1 lb. (15)	1,500
-Telescope	1,500
-Armor
-Brigandine
-(Vitality Resistance 4)	[7]	2,500
-Chainmail
-(Vitality Resistance 2)	[4]	1,500
-Cuirass
-(Vitality Resistance 3)	[7]	5,000
-Full Plate
-(Vitality Resistance 5)	[10]	10,000
-Gambeson
-(Vitality Resistance 1)	[3]	500
-Shield
-(Vitality Resistance 1)	[2]	1000
+Astrolabe	3,000
+Calculator, mechanical	5,000
+Clock, mechanical	10,000
+Gems, precious (10)	100,000 
+Mirror	2,000
+Poison, deadly (3)	9,000
+Silk, fine	10,000
+Spectacles	1,000
+Spices, 3 lb. (15)	15,000
+Telescope	5,000
 Weapons
 Axe 
-(Striking)	[2]	250
-Bow AP:1
-(Missile) 		750
-Crossbow AP:2
-(Missile)	[3]	1,000
+(Striking) 	
+DMG 3	250
+Bow 
+(Missile) 	
+DMG 4	750
+Crossbow 
+(Missile) 	[2]
+DMG 3	1,000
 Cudgel 
-(Striking)	[2]	75
-Firearm AP:4
-(Missile)	[3]	5,000
-Hammer AP:1
-(Striking)  	[2]	250
-Javelin (1)
-(Missile) 		100
-Knife (Striking, Intermediate, Grappling)		500
-Lance AP:3
-(Extended) 	[2]	200
-Mace AP:2
-(Striking)	[3]	250
-Polearm AP:1
-(Extended) 	[2]	250
+(Clinch) 	
+DMG 1	100
+Firearm 
+(Missile) 	[3]
+DMG 6	5,000
+Greatsword
+(Extended)	[2]
+DMG 3	2,000
+Hammer 
+(Striking)  	[2]
+DMG 3	500
+Knife 
+(Clinch) 	
+DMG 2	500
+Lance 
+(Extended) 	[2]
+DMG 3	1,000
+Mace
+(Striking) 	[2]
+DMG 2	750
+Polearm 
+(Extended) 	[2]
+DMG 3	750
 Spear 
-(Extended) 		100
+(Extended) 	
+DMG 2	100
 Staff 
 (Striking) 		75
-Sword AP:1
-(Extended, Striking) 		2,000
+Sword
+(Striking) 	
+DMG 2	1,000
+Armor
+Brigandine 
+DR (12)	[6]	2,500
+Chainmail
+DR (10)	[8]	1,000
+Full Plate
+DR (20)	[15]	10,000
+Half Plate
+DR (15)	[10]	5,000
+Gambeson
+DR (6)	[2]	500
+Shield 
+(Extended) DR (8)	[2]	1000
  
+Property & Services
+Loans & Investments
+Amounts of coin surpassing what can safely be carried may better be stored in a bank or invested in a property. For expenses exceeding a character’s current finances, consider incurring a debt from a local Noble, Merchant, or Banker.
 Livestock
-Chicken	20
-Cow	1,000
-Dog, hunting/herding	750
-Dog, rat catcher	250
-Donkey	1,250
-Goat	300
-Hawk, hunting	1,000
-Horse, riding	3,000
-Horse, war	15,000
-Horse, pack	2,000
-Ox	1,500
-Pig	400
-Sheep	200
+Livestock are domesticated animals used to produce labor and commodities. Some animals act as beasts of burden and can carry characters and items.
+Inventory: Certain livestock have the ability to pack items. Their total inventory slots have been marked by an {x} symbol. 
+Riding: To support the weight of their rider, mounts must have double the character’s current inventory available.
 Hirelings
-Wages are per day, not including food, supplies, shelter, etc.
-Alchemist	500
-Archer	800
-Architect	300
-Armorer/Blacksmith	150
-Artisan	125
+The world contains many people looking to sell their trades for coin. As characters grow in wealth, Hirelings can be contracted to aid in complex efforts. Daily wages for Hirelings have been denoted in copper pieces, and do not include supplies, materials, lodging, etc.
+Lifepath: Each Hireling has a matching Lifepath that can be used for reference wages and Skills. As such, Lifepaths not listed below may also be hired.
+Test Help: If a Hireling has a relevant Skill from their lifepath, that Skill can be utilized for call-on Help Dice.
+Transport
+Great distances across land and sea can be traversed more easily by paying for passage across established routes. 
+Trips: Costs given below pertain to one-way trips.
+The World: Transportation may provide means for avoiding natural barriers and crossing long distances quickly.
+Ships
+Sailing ships are river, costal, or sea-going vessels that use wind power to propel crew and cargo to new lands and opportunities. 
+Crew & Cargo: Ships require a crew to operate, marked by an (x/y) symbol indicating minimum and maximum crew size respectively. In addition to the inventories of the crew members, ships can carry up to the maximum crew size in item slots.
+The World: Ships open up many possibilities for travel in The World, allowing quick transit between ports.
+Real Estate
+Property constitutes purchased land and anything growing on it, attached to it, or erected on it, such as buildings, roads, structures, sewers, and fences.
+Passive Income: Property may provide return on investment, calculated as a percent of the property’s value per year.
+Taxes: Property under control of The State may be subject to taxes, regulation, and/or confiscation. Estates can also be gifted by those in power as rewards for service or loyalty.
+Livestock
+Chicken		20
+Cow		1,000
+Dog, hunting/herding		750
+Dog, rat catcher		250
+Donkey	{20}	1,250
+Goat		300
+Hawk, hunting		1,000
+Horse, pack	{40}	2,000
+Horse, riding	{60}	3,000
+Horse, war	{80}	15,000
+Ox		1,500
+Mule	{30}	1,500
+Pig		400
+Pigeon, carrier		400
+Sheep		200
+Hirelings
+Accountant	275
+Alchemist	750
+Archer	150
+Armorer	300
+Artisan	150
 Attorney	500
-Surgeon	650
-Builder	125
-Caretaker	100
-Clerk	100
-Cook	60
-Craftsman	125
-Forger	100
-Hedge Mage	250
-Laborer	40
-Man-at-Arms	1500
-Mercenary	500
-Merchant	500
-Physician	500
-Ranger	1000
-Sailor	250
-Scribe	100
-Smuggler	250
+Bard	200
+Craftsman	150
+Guard	175
+Hedge Wizard	375
+Infantryman	150
+Knight	375
+Labourer	75
+Mercenary	275
+Merchant	550
+Privateer	300
+Ranger	225
+Researcher	200
+Sailor	225
+Scribe	150
+Smuggler	325
+Spy	450
+Tailor	125
+Wizard of War	750
 Transportation
-Costs are for one way trips including cargo
 Horse, riding	100
 Mule, riding	50
 Cart	250
 Wagon	500
 Carriage	2,000
 Ferry	100
-Barge, down river	1,000
+Barge, river	1,000
 Ship, costal	2,000
 Ship, ocean	5,000
 Ships
-Caravel	800,000
-Carrack	1,600,000
-Cog	200,000
-Cutter	500,000
-Galleon	3,000,000
-Galley	100,000
-Hulk	50,000
-Knarr	25,000
-Longship	400,000
-Schooner	1,000,000
-Sloop	250,000
-Property
-Bank		500,000
+Barge	(3/15)	50,000
+Caravel	(15/75)	800,000
+Carrack	(50/250)	1,600,000
+Cog	(5/25)	200,000
+Cutter	(8/40)	500,000
+Galleon	(60/600)	3,000,000
+Galley	(100/200)	500,000
+Knarr	(15/30)	25,000
+Longship	(30/60)	300,000
+Schooner	(10/100)	1,000,000
+Sloop	(5/50)	250,000
+Real Estate
+Bank		1,000,000
 Castle		5,000,000
 Church		1,500,000
 College		2,500,000
 Cottage		250,000
+Dockyard		5,000,000
 Farmstead		500,000
 Guildhall		750,000
 Keep		2,500,000
@@ -475,532 +679,1929 @@ Mill		750,000
 Palace		15,000,000
 Tavern		250,000
 Theater		750,000
-Workshop		500,000
-Extra Stuff Intro*
-Magic refers to the system of arcane words which are combined into phrases and spoken aloud to alter the natural world. These words are divided into categories of Change, Substance, Quantity, Location, and Duration. The schools of change are associated with particular magical skills that are used as the Root Die for particular words.
-Technique*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its 
-Martial Skills*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its associated intent. Once a focus has been created, and is in the character’s inventory, the caster will gain Advantage on rolls to cast that spell, thus negating the risk of Warping. Focuses take up one inventory slot. 
+Tower		500,000
+Workshop		250,000
+Conflict
+Conflict mediates every interaction between characters and the world. These interactions constitute the uncertain events for which dice are rolled. While Conflict cycles may be strung together or nested within each other as the story demands, Conflict is ultimately resolved upon completion of a Gameplay Loop.
+Intent
+At the beginning of a Conflict Cycle, players must clearly express what outcome they intend to occur in an uncertain event. This defines their character’s Intent. Intent determines which mechanics apply and how to interpret events when resolved.
+Task
+A Task describes what action a character attempts in order to accomplish their Intent. Tasks must be finite, quantifiable, and performed by the character, e.g., attacking someone with a sword, forcing a door open, or debating in a court of law. 
+Test
+As described previously, Tests evaluate whether a character succeeds at their Task. Rolls made against a Test value or Challenge Rating must be based upon a Root Die value. However, Advantage and Disadvantage will also impact the final quantity of Successes.
+Resolution
+All rolls made against the Test resolve to either a Success, Failure, or Null Result. A Null Result does not fulfill the Intent of any parties involved in the Test. Upon Success, the victor’s Intent occurs.
+General Rules
+Damage 
+Rolls below the Test value or Challenge Rating in a Test result in damage to an Attribute. The total damage accrued equals the difference between the roll and the target. Generally, social conflict or stress damages Morale, physical conflict or injury damages Vitality, and environmental conflict or fatigue damages Stamina; however, the exact relegation depends upon context.
+Damage accrues after each Conflict Cycle; in a series of Cascading Tests, for example, the loser will accrue damage after each Opposed Roll.
+Group Conflict
+A singular, primary character leads all Conflict Cycles against an opposing force; however, other characters can contribute Help Dice to the leader. In the event of a failed Test, all characters involved accrue damage. Once the total damage amount has been calculated, each character receives damage up to the quantity of Help Dice they provided. The character acting in the primary role can change dynamically as the narrative demands or be determined by following generic initiative rules. 
+Rulings
+In addition to the GM, the players can propose rulings and interpretations of game mechanics. The GM ruling takes precedence over any single player; however, if all players unanimously oppose the GM’s interpretation, it can be overruled.
+Shared GM: Optionally, the duties of the GM may be shared across the group, allowing direct narrative collaboration between all players/characters.
+Test Variations
+There are five subtypes of Test. The most applicable subtype depends upon the circumstances and level of Conflict. A Test can be escalated to a higher level at any point by any party involved.
+Free Test
+Free Tests constitute unopposed actions, such as picking up a light object or walking across the room, and do not require a roll. Free Tests only apply to actions for which failure has no consequence.
+Variable Test
+Variable Tests constitute open-ended Tests, for which the outcome depends entirely upon how well the character rolls. Characters do not incur damage from low rolls, but high rolls offer the possibility for unexpected positive outcomes. Variable Tests typically apply to uncontested actions defined only by the success of one party, such as asking a kind stranger for help, fishing in a calm pond, or performing light calisthenics.
+Static Test
+Static Tests constitute Tests against a discrete Test value or Challenge Rating. These Tests follow damage rules. Static Tests apply to actions such as bribing a guard, leaping over a crevice, or fording a river. The character must meet or exceed the stated Test value to succeed. 
+Opposed Test
+Opposed Tests constitute Tests against an intelligent agent using their own Root Dice. Both parties state their intent prior to rolling, and then compare total successes. Opposed Tests apply to actions such as short arguments, arm wrestling matches, or foot races.
+Cascading Test
+Cascading Tests escalate Opposed Tests. An Opposed Test’s loser can contest the result by choosing a new Root Die and repeating the Conflict Cycle. The victor can reroll using the same Root Die or choose a new Root Die. Subsequent Tests can be passed between characters regardless of the outcome of previous Tests.
+Advanced Rules
+These additional rules offer players options to potentially alter Test outcomes. 
+Attack
+Characters may burn Attribute points in order to add Call-On Dice to their Test roll, equal to the number of Attribute points spent. The decision to do this must be made prior to rolling for a Test. 
+Defend
+Players may withhold damage to an opponent to use as Successes in the next Test. The decision to do this must be made after the current Test has been resolved, but before another Test has commenced. 
+Maneuver
+Players may elect against rolling any or all Call-On Dice during a Test. If the player then succeeds in their Test roll, all withheld Call-On Dice count as Successes. The decision to do this must be made prior to rolling for a Test.
+“Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee. I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible to feeling as to sight? – Macbeth
+Challenge Rating
+The difficulty of a Test can be estimated using Challenge Rating (CR) charts. The number of players (“P”) has been denoted on the horizontal axis; the number of Lifepaths per character (“L”) has been denoted on the vertical axis. Difficult Tests require the maximum number of successes possible, Average Tests require 50% of the maximum, and Easy Tests require 25% of the maximum. 
+The CR values have been determined by totaling the number of lifepaths taken, potential related skills, applicable items, and Help from other characters. These values should be taken as a rough guide to determine overall challenge to a Test. For Conflict involving Opposed Tests, double the CR value to determine total dice rolled.
+Easy Tests
 
-Spell focuses*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a.
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a 
-Mode
-The magical schools of Change govern the essential manipulations that magic can perform. In order to transition between a Standing and Ground position the player must succeed at a previous Intermediate Position Test.
-Name		Cost
-Logical		0
-Emotional		0
-Ethical		0
-Timely		0
-Style
-The form of Substance is the perfect and unchanging representations of objects and qualities that magic is able to manipulate. Quam accusantium accusantium quo repellendus ipsum sunt nulla.
-Name		Cost
-Expository		1
-Persuasive		1
-Narrative		1
-Descriptive		1
-Coercive		1
-Rhetoric*
-Magic refers to the system of arcane words which are combined into phrases and spoken aloud to alter the natural world. These words are divided into categories of Change, Substance, Quantity, Location, and Duration. The schools of change are associated with particular magical skills that are used as the Root Die for particular words.
-Technique*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its 
-Martial Skills*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its associated intent. Once a focus has been created, and is in the character’s inventory, the caster will gain Advantage on rolls to cast that spell, thus negating the risk of Warping. Focuses take up one inventory slot. 
+L       P	1	2	3	4	5	6
+1	1	2	2	3	3	4
+2	1	2	2	3	3	4
+3	2	3	3	4	5	6
+4	2	3	4	4	5	6
+5	3	4	5	7	8	9
+6	3	4	6	7	8	9
+7	4	5	7	8	10	11
+8	4	5	7	8	10	11
+9	5	7	9	11	13	15
+10	5	7	9	11	13	15
+11	5	8	10	12	14	17
+12	6	8	10	12	15	17
+Average Tests
 
-Spell focuses*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a.
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a. Once a player has established a magic spell that they are familiar with and a consensus of its effects has been 
-Mode
-The magical schools of Change govern the essential manipulations that magic can perform. In order to transition between a Standing and Ground position the player must succeed at a previous Intermediate Position Test.
-Name		Cost
-Logical		0
-Emotional		0
-Ethical		0
-Timely		0
-Style
-The form of Substance is the perfect and unchanging representations of objects and qualities that magic is able to manipulate. Quam accusantium accusantium quo repellendus ipsum sunt nulla.
-Name		Cost
-Expository		1
-Persuasive		1
-Narrative		1
-Descriptive		1
-Coercive		1
-Sound
-The Quantity specifies the aspect of substance that the spell is able to affect. Only the exact aspect specified is affected by the spell.
-Name		Cost
-Alliteration		2
-Assonance		2
-Cacophony		1
-Onomatopoeia		1
-Repetition		1
-Rhyme		3
-Flat		0
-Meaning
-The Quantity specifies the aspect of substance that the spell is able to affect. Only the exact aspect specified is affected by the spell.
-Name		Cost
-Allusion		2
-Analogy		1
-Oxymoron		1
-Paradox		2
-Personification		1
-Pun		1
-Metaphor		1
-Simile		1
-Literal		0
-Action
-The Quantity specifies the aspect of substance that the spell is able to affect. Only the exact aspect specified is affected by the spell. 
-Name		Cost
-Declaration		0
-Dismissal		1
-Avoidance		1
-Obfuscation		1
-Rebuttal		1
-Question		1
-Demand		1
-Maximum Value*
-beads, or other object that aids in the mnemonic recall of the spell and its associated intent. Once a focus has been created, and is in the character’s inventory, the caster will gain Advantage on rolls to cast that spell, thus negating the risk of Warping. Focuses take up one inventory slot. 
-The specified Martial Action sets the maximum value that can be achieved in a Test roll. (like a called shot, the value is in calling it and making it. Anything extra does not count towards success). This forces a risk reward of the specified action. Yada yada, if it is successful and exceeds the opponents roll, the players narrative wins.
-Narrative Impact*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary 
-The specified Martial Action sets the maximum value that can be achieved in a Test roll. (like a called shot, the value is in calling it and making it. Anything extra does not count towards success). This forces a risk reward of the specified action. Yada 
+L       P	1	2	3	4	5	6
+1	2	3	4	5	6	7
+2	2	3	4	5	6	7
+3	3	5	6	8	9	11
+4	4	5	7	8	10	11
+5	5	8	10	13	15	18
+6	6	8	11	13	16	18
+7	7	10	13	16	19	22
+8	7	10	13	16	19	22
+9	9	13	17	21	25	29
+10	9	13	17	21	25	29
+11	10	15	19	24	28	33
+12	11	15	20	24	29	33
 
- 
-Martial Combat
-Magic refers to the system of arcane words which are combined into phrases and spoken aloud to alter the natural world. These words are divided into categories of Change, Substance, Quantity, Location, and Duration. The schools of change are associated with particular magical skills that are used as the Root Die for particular words.
-Spells are built by constructing a phrase using one word from each category and summing the cost of each word to determine the total check to cast the stated spell successfully. The combination of words allows for a substantial number of unique possibilities, with greater control and impact coming at a higher threshold cost to cast. All normal rules for skills apply to magic skills. 
-Martial Skills*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its associated intent. Once a focus has been created, and is in the character’s inventory, the caster will gain Advantage on rolls to cast that spell, thus negating the risk of Warping. Focuses take up one inventory slot. 
 
-Technique*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary 
-Stance
-The magical schools of Change govern the essential manipulations that magic can perform. In order to transition between a Striking and Grappling position the player must succeed at a previous Intermediate Position Test.
-Name	Range	Cost
-Standing	Missile	2
-High	Extended	1
-Middle	Extended	1
-Low	Extended	1
-Orthodox	Striking	0
-Southpaw	Striking	0
-Square	Striking	0
-Clinch	Intermediate	0
-Guard	Grappling	0
-North South	Grappling	0
-Side Control	Grappling	1
-Full Mount	Grappling	2
-Back Mount	Grappling	3
-Implement
-The form of Substance is the perfect and unchanging representations of objects and qualities that magic is able to manipulate.
-Name		Cost
-Hand		0
-Fist		0
-Elbow		0
-Foot		0
-Knee		0
-Weapon		0
-Target
-The Quantity specifies the aspect of substance that the spell is able to affect. Only the exact aspect specified is affected by the spell.
-Name		Cost
-Neck		2
-Wrist		1
-Elbow		1
-Shoulder		1
-Hip		1
-Knee		1
-Ankle		1
-Body		2
-Head		3
-Action
-The Location of a spell is the distance to the nearest part of the target of the spell. A spell that has a continuing effect remains in effect even if the caster moves out of range of the location.
-Name		Cost
-Shoot		1
-Thrust		1
-Cross		2
-Hook		2
-Over		3
-Under		3
-Lunge		3
-Trip		1
-Throw		2
-Takedown		3
-Hold		1
-Pin		2
-Lock		3
-Spell*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a.
-Narrative Impact*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its associated intent. Once a focus has been created, and is in the character’s inventory, the caster will gain Advantage on rolls to cast that spell, thus negating the risk of Warping. Focuses take up one inventory slot. 
-Maximum* 
-The specified Martial Action sets the maximum value that can be achieved in a Test roll. (like a called shot, the value is in calling it and making it. Anything extra does not count towards success). This forces a risk reward of the specified action. Yada yada, if it is successful and exceeds the opponents roll, the players narrative wins.
-Spell focuses*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the. 
+
+Difficult Tests
+
+L       P	1	2	3	4	5	6
+1	3	5	7	9	11	13
+2	4	6	8	10	12	14
+3	6	9	12	15	18	21
+4	7	10	13	16	19	22
+5	10	15	20	25	30	35
+6	11	16	21	26	31	36
+7	13	19	25	31	37	43
+8	14	20	26	32	38	44
+9	17	25	33	41	49	57
+10	18	26	34	42	50	58
+11	20	29	38	47	56	65
+12	21	30	39	48	57	66
+Gameplay Loop
+All of the core mechanics outlined above come together in the Gameplay Loop; a simple process flow used by players and GMs alike to direct action.
+I. Exposition
+The GM establishes the current state of The World. Exposition fixes the setting at a particular place and time, sets a mood or theme, establishes characters, and delineates major changes in The World since any previous adventures. Exposition can be conveyed through in-setting dialogue, sensorial impressions, or “meta” narration.
+II. Rising Action
+Rising Action introduces complications, obstacles, or other challenges following the Exposition, and builds towards Conflict. Rising Action comprises the most important part of the Gameplay Loop, as the entire loop depends upon it to facilitate the Climax and, ultimately, the resolution of the conflict. 
+During the Rising Action, players state their Intent to act in response to the given challenge and construct specific Tasks that enable their characters to accomplish their Intent.  Players select Root Die; add Items, Call-On Skills, and Help; and apply Advanced Rules as needed. If a character fails their Task, the GM and players together determine the outcome of the conflict.
+III. Climax
+The Climax constitutes the turning point that decides a character’s fate. The GM determines the type of Test to apply and, as applicable, a target value from the Challenge Rating charts. The players and GM then roll all relevant dice and total their Successes.
+IV. Falling Action
+During the Falling Action, characters confront the force of their opposition in a moment of final suspense. The players compare their total Successes against the GM’s Test value to determine the victor. Potential twists, complications, or failures can be foreshadowed while the outcome is being determined.
+V. Resolution
+The Resolution of the conflict unravels the narrative tension and brings the Gameplay Loop to a close. If the players emerge victorious, their stated Intent occurs as described; upon defeat, however, the foreshadowed twist, complication, or failure occurs. The GM then wraps up any loose threads and sets the stage for another Gameplay Loop by providing new Exposition.
+Death
+"I am become death, the destroyer of worlds." ― Vishnu, Bhagavad-Gita
+In Ataraxia character death is voluntary; however, involuntary death rules can be used for a more lethal experience.
+Voluntary: Players consent to their characters’ deaths. If a player believes that an event should result in their character’s death, they must consult with the GM on the specifics and how it impacts the story. In some cases, character death can result in a Miracle.
+Involuntary: Characters maintain the ability to lead in Tests once an Attribute has been reduced to zero; however, each Attribute reduced to zero incurs a penalty of two points of Disadvantage. Any new damage is distributed to the remaining Attributes. If all Attributes are reduced to zero, the character dies.
+Might
+Might represents the codified systems and traditions of combat for use in self-defense, sport, and war. 
+“…Thus choosing to die resisting, rather than to live submitting, they fled only from dishonor, but met danger face to face, and after one brief moment, while at the summit of their fortune, escaped, not from their fear, but from their glory.” ― Pericles
+Martial Skills 
+Martial Skills, denoted by “†”, comprise two categories: Armed and Unarmed. Regardless of category, each weapon or unarmed Skill has an effective Range at which it can be used.
+Armed
+Name	Range
+Bow	Missile
+Crossbow	Missile
+Firearm	Missile
+Lance	Extended
+Polearm	Extended
+Shield	Extended
+Spear	Extended
+Axe	Striking
+Hammer	Striking
+Mace	Striking
+Staff	Striking
+Sword	Striking, Extended
+Cudgel	Clinching
+Knife	Clinching
+Unarmed
+Name	Range
+Boxing	Striking
+Brawling	Striking
+Wrestling	Clinching
+Grappling	Grappling
+Range
+When used at their ideal Range, Martial Skills gain a point of Advantage on Tests. These skills can also be used at one level closer or further than the ideal Range, beyond which they become ineffective and cannot inflict damage.
+	Missile (15-1,000 ft.)
+	Extended (5-15 ft.)
+	Striking (5 ft.)
+	Clinching (0 ft.)
+	Grappling (0 ft.)
+Missile
+Missile Range constitutes the distance at which a projectile can accurately hit its target, approximately 15-1,000 ft. 
+Extended
+Extended Range constitutes the distance at which a spear or lance can accurately hit its target, approximately 5-15 ft.
+Striking
+Striking Range constitutes the distance at which an attack with an axe, hammer, or similar weapon—or, alternatively, an unarmed punch—can accurately hit its target, approximately 5 ft.
+Clinching
+During a physical altercation, Clinching Range constitutes the distance at which the combatants’ attempt to trip, throw, sweep, and strike while locked together, but still standing.
+Grappling
+Grappling Range constitutes the distance at which one combatant attempts to physically dominate their opponent by choking, locking, or pinning them. At this range, the combatants would be entangled and on the ground. Attacks made at this range bypass armor.
+Movement
+Attacks can be made at the starting Range, as well as one level closer or further than the starting Range, and resolve at the victor’s ideal Range. For example, in a conflict that begins at Striking Range, two opponents might contend with the Spear and Wrestling Skills. Depending upon the victor, the Range would resolve to either Extended or Clinching Range. Thus, the starting Range in a Cascading Test will be determined by the ideal Range of the victor’s weapon in the previous Test. 
+If a character has no usable Might Skills within the current Test’s Range, they must use alternative Root Die in the Test and they cannot alter the Range.
+Mounted Combat
+Mounted characters gain +2 DMG and can resolve to any distance within their maximum Range if successful. For example, using a Lance while mounted can resolve to the Missile, Extended, or Striking Ranges. However, riders can be dismounted either narratively or by being brought into Clinching Range.
+Environment
+Cover & Position
+Characters behind cover or on high ground may gain points of Advantage depending upon their level of protection or the superiority of their position.
+Visibility
+Dim Light or Darkness rules apply when attacking hidden or camouflaged opponents. The most applicable ruleset depends upon the opponent’s level of concealment.
+Weapons
+Weapons injure, defeat, or destroy an opponent. Only one weapon can be used at a time; however, weapons can be freely changed between Conflict cycles.
+Bonus Damage: Some weapons deal additional Bonus Damage, indicated by a DMG value. This is an abstraction of the weapon’s armor penetration and general lethality. DMG is only added to the total of a successful Test.
+Range: Each weapon has an ideal Range at which it grants a point of Advantage. Tests can be made one level closer or further than the ideal Range. Successful Tests resolve to the weapon’s ideal Range.
+Thrown Weapons: Weapons can be thrown to increase their ideal Range by one level, thus altering the resolution distance to the new Range. For example, a knife thrown at Extended Range resolves to Striking Range.
+Armor
+Armor functions to reduce or mitigate incoming damage to an Attribute through Damage Reduction. Only one set of armor can be worn at a time.
+Damage Reduction: Each item of armor has an associated consumable quantity, known as “DR” and indicated by an “(x),” which corresponds to the total amount of damage that the armor can absorb. Once all DR has been consumed, the armor becomes Degraded and will need to repairs to restore its full functionality. This extra protection comes at the cost of extra weight, however, indicated by an “[x].” If DR reduces the incoming damage in a Test to zero, then the Test resolves to a null resolution, or tie. Armor DR cannot be applied when in the ‘Grappling’ range.
 Magic
-Magic refers to the system of arcane words which are combined into phrases and spoken aloud to alter the natural world. These words are divided into categories of Change, Substance, Quantity, Location, and Duration. The schools of change are associated with particular magical skills that are used as the Root Dice.
-Spells are built by constructing a phrase using one word from each category and summing the cost of each word to determine the total check to cast the stated spell successfully. The combination of words allows for a substantial number of unique possibilities, with greater control and impact coming at a higher threshold cost to cast. All normal rules for skills apply to magic skills. 
-Spell Interpretation
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the.
-The words a caster is able to know is determined by summing 	the rank of all magical skills and spending this value on words based on their associated casting cost. For example; a character with a Sorcery skill of 3 and a Summoning skill of 5 would have a total of 8 points to spend on known words. PC’s automatically acquire either the Gifted or Faithful 
-Narrative
-The words a caster is able to know is determined by summing 	the rank of all magical skills and spending this Whenever a caster rolls a total failure on a spell Test the caster 
+Magic constitutes a system of arcane words which, when constructed into phrases, alter the natural world. These words fall into one of five categories: Change, Substance, Quantity, Location, and Duration. 
+Magical phrases, known as spells, comprise at least one word from each category. To successfully cast a spell, a Static Test must be passed. The target value for this test equals the sum of each arcane word’s cost. Common arcane words and their associated costs have been tabulated below. Additionally, with the players’ and GM’s unanimous consensus, new magical words can be created. 
+Magical Skills
+Magical Skills, denoted by “*”, have an associated Word of Change.
+Name	Change
+Alchemy	Alteration
+Apothecary	Decrease
+Astrology	Increase
+Aura Reading	Decrease
+Bloodletting	Destruction
+Enchanting	Increase
+Faith	Generation
+Ritual	Destruction
+Runic Charms	Alteration
+Sorcery	Generation
+Spirit Binding	Movement
+Summoning	Movement
+Learning Spells
+Spellcasters only know a finite quantity of arcane words. This quantity can be determined by summing the rank of all magical Skills and then spending the total value on arcane words based upon their associated cost. 
+Magical Words
 Change
-The magical schools of Change govern the essential manipulations that magic can perform
-Latin	English	Skill	Cost
-Genus	Generation	Faith, Sorcery	0
-Exitium	Destruction	Death Art, Bloodletting	0
-Augere	Increase	Enchanting, Astrology	0
-Diminutio	Decrease	Ritual, Aura Reading	0
-Mutatio	Alteration	Alchemy, Circination	0
-Motus	Movement	Spirit Binding, Summoning	0
+Words of Change describe the essential manipulations that magic can perform. Spells can only use one Word of Change.
+Ancient	Common	Cost
+Genus	Generation	0
+Exitium	Destruction	0
+Augere	Increase	0
+Diminutio	Decrease	0
+Mutatio	Alteration	0
+Motus	Movement	0
 Substance
-The form of Substance is the perfect and unchanging representations of objects and qualities that magic is able to manipulate. 
-Latin	English	Cost
-Aer	Air	1
+Words of Substance describe the perfect and unchanging representations of objects. Everything in the universe comprises some combination of the five elements: Fire, Water, Air, Earth, and Ether.
+Ancient	Common	Cost
+Ignis	Fire	1
 Aqua	Water	1
+Aer	Air	1
 Terra	Earth	1
-Ignis	Fire  	1
-Aether	Aether	1
-Corpus	Body	2
-Herbam	Plant	2
-Animo	Mind	2
+Aether	Ether	1
+Anima	Soul	∞
+Vita	Life	∞
+Tempus	Time	∞
 Quantity
-The Quantity specifies the aspect of substance that the spell is able to affect. Only the exact aspect specified is affected by the spell.
-Latin		English	Cost
+Words of Quantity describe the aspect of the Word of Substance that the spell affects; spells only affect the exact aspect specified.
+Ancient		Common	Cost
+Pigmentum		Color	0
 Punctum		Point	1
-Longitudo		Length	1
-Regio		Area	1
-Volumen		Volume	1
-Quantitas		Magnitude	1
-Directio		Direction	1
-Massa		Mass	1
-Industria		Energy	1
-Pigmentum		Color	1
+Directio	 	Direction	1
+Longitudo	 	Length	2
+Quantitas		Magnitude	2
+Regio		Area	3
+Massa		Mass	3
+Volumen	 	Volume	4
+Industria	 	Energy	4
+Essentia		Essence	∞
 Location
-The Location of a spell is the distance to the nearest part of the target of the spell. A spell that has a continuing effect remains in effect even if the caster moves out of range of the location.
-Latin	English	Cost
-Signum	Sigil	-1
-Personalem	Personal	0
+Words of Location describe the distance to the nearest part of the spell’s target. Spells with a Duration longer than a Moment remain in effect even if the caster moves out of range of the Word of Location.
+Ancient	Common	Cost
+Signum	Sigil	0
 Tactus	Touch	1
 Vox	Voice	2
 Oculus	Sight	3
-Cognitio	Thought	4
+Cogitatio	Thought	∞
 Duration
-The Duration of a spell is defined by either the environment or the caster themselves. Spells involving celestial cycles last for a full cycle starting at the moment of casting.
-Latin	English	Cost
-Momentum	Moment	-1
-Intentio	Concentration	0
-Solis	Sun	1
-Luna	Moon	2
-Annos	Year	3
-Aetate	Lifetime	4
+Words of Duration describe how long a spell lasts. Spells involving a celestial cycle last one full cycle, beginning at the moment of casting. Active spells can contribute Help Dice in appropriate situations, equal to the total number of Successes achieved at the spell’s casting.
+Ancient	Common	Cost
+Momentum	Moment	0
+Intentio	Concentration	1
+Solis	Sun	2
+Luna	Moon	3
+Annos	Year	5
+Eclipsis	Eclipse	8
+Aetate	Lifetime	12
+Aeternitas	Eternity	∞
+Spell Focuses 
+Once a player has created a magic spell and a consensus of the spell’s effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Spell Focuses constitute any object that aids the caster in the mnemonic recall of the spell. Spell Focuses take numerous forms, such as grimoires, rosary beads, etc. Once a Spell Focus has been created, and while it remains in the caster’s inventory, the caster gains one point of Advantage on rolls to cast that spell. Spell Focuses take up one inventory slot. 
+Magic Items
+Magic Items imbue a mundane item with a spell. Creation of the Magic Item requires the caster to sacrifice one Stat point, as well as successfully meet the check to cast the spell. Advanced Rules can be employed when creating a Magic Item. In addition to storing spells, Magic Items grant Exploding Dice when utilized in a Test and cannot become Degraded. Once the Magic Item’s stored spell has been cast, the item becomes mundane again.
+Narrative 
+Conflict Tests and Magic checks succeed and fail independently.
+Test Success, Magic Success. The player’s Intent is accomplished and the spell occurs as intended.
+Test Success, Magic Failure. The player’s Intent is accomplished; however, the spell does not perform as intended.
+Test Failure, Magic Success. The player’s Intent is not realized; however, the spell occurs as intended, thus altering the overall outcome.
+Test Failure, Magic Failure. Neither the player’s Intent nor Spell occurs as intended.
 Warping
-A constant danger faced when casting spells is the risk of Warping. Whenever a caster rolls a total failure on a spell Test the caster loses control of the spell and suffers permanent changes as a result. The spell produces different effects than specified in the Intent section of the Action Cycle, and the caster suffers a permanent Trait associated with the spell.
-Learning Spells
-The words a caster is able to know is determined by summing 	the rank of all magical skills and spending this value on words based on their associated casting cost. For example; a character with a Sorcery skill of 3 and a Summoning skill of 5 would have a total of 8 points to spend on known words. 
-Spell focuses*
-Once a player has established a magic spell that they are familiar with and a consensus of its effects has been established, the caster can begin the process of instantiating the spell in a physical Spell Focus. Focuses can take the form of a spell tome, rosary beads, or other object that aids in the mnemonic recall of the spell and its associated intent. Once a focus has been created, and is in the character’s inventory, the caster will gain Advantage on rolls to cast that spell, thus negating the risk of Warping. Focuses take up one inventory slot. 
- 
-Divine*
-Magic, though a very powerful force, is not omnipotent. There are certain laws it must conform to and certain limits that it can never exceed. The limits to Hermetic magic are described below. Most Hermetic theorists believe that there are only two fundamental limits, the Limit of the Divine and that the other limits are derived from one or other of these. 
-Hermetic Order*
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Failure to meet the spell target value results in damage following Static Test damage rules. When a caster rolls a total failure to cast a spell, the caster loses control of the spell and suffers permanent changes as a result. Not only does the spell produce different effects than specified in the Intent, the caster receives a permanent Trait associated with the spell failure.
+Divinity
+Divinity constitutes the transcendental force derived from beings or entities whose powers greatly surpass those of ordinary humans. The Divine guides humans to new levels of consciousness and capability, beyond the bounds of ordinary life. 
 Limitations
+The Divine begins where Magic ends. Magic, though very powerful, cannot overcome certain limitations without divine intervention. While academic institutions generally recognize these limits, ambitious scholars often attempt to exceed them.
+Due to the ambiguity surrounding the distinction between arcane and holy magic, schools in both disciplines study the nature of Divinity and religious truth. Theorists disagree on whether an absolute distinction between magic and the Divine exists. Some believe that magic derives from the Limits of the Divine, and is thus a direct extension of Divinity.
 The Limit of the Divine
-Hermetic magic cannot affect the Divine. Any magic attempting to do so simply fails. The agents of the Divine, such as saints and angels, are protected from magic to some extent, but are not normally completely immune. As a general rule, any being with a will separate from God’s can be affected by magic, at least in principle. Only direct action by God is completely immune.
-The Limit of Essential Nature
-Any magic which violates a thing’s essential nature must be maintained, and when power is no longer supplied the thing returns to its natural state. Thus, Mutatio magic must always be maintained, while the effects of Augere or Diminutio magic persist after the spell expires. A thing’s essential nature cannot itself be changed. While Hermetic magic can completely change the way a thing appears, it cannot affect what that thing is. A thing’s essential nature varies depending on what it is. While these limits are recognized in the academy, they are often tested by initiates and ambition members of their orders.
-The Limit of Arcane Connections
-Hermetic magic cannot affect an unsensed target without an Arcane Connection. For example: Diminutio Animo magic cannot affect those people until the magus is aware of them.
-The Limit of Creation
-Hermetic magic is incapable of creating anything permanently without raw arcane energy. This limit affects all uses of Genus magic. However, as Genus magic does not violate the essential nature of its target, Genus magic that does use raw arcane energy does not need to be maintained. Theorists are divided on whether this derives from the Limit of the Divine or the Limit of Essential Nature. 
- 
-The Limit of the Celestial Sphere
-Hermetic magic cannot affect the celestial sphere, nor anything above it. Most magi think this derives from the Limit of the Divine. The lunar sphere is the innermost of the celestial spheres, which carry the stars and planets ontheir revolutions around the earth, and so this limit rarely bothers magi directly.
+Magic cannot affect the Divine; any magic attempting to do so simply fails. Agents of the Divine, such as angels and demons, possess some protection from magic but not total immunity. In principle, any being with a will separate from that of The Divine can be affected by magic. Only direct action by The Divine is completely immune.
+Many theologians believe that there exists only one fundamental limit, the Limit of the Divine, and that all other limits derive from this central axiom.
 The Limit of the Soul
-Hermetic magic cannot create an immortal soul, and so may not create true human life nor restore the dead to life. Most magi think this derives from the Limit of the Divine, although a significant number think that Hermetic magic’s inability to raise the dead reflects nothing more than a flaw in the theory. Animals have no immortal souls, and so may be created. Magical creatures and faeries are generally believed not to have immortal souls, and there are spells that appear to create them, but some magi believe that such spells really summon existing beings. Angels and demons are nothing but immortal souls.
+The soul constitutes the incorporeal essence of a living being. Soul or psyche comprises the mental abilities of a living being: consciousness, reason, character, feeling, memory, perception, thought. Magic cannot create, alter, or destroy an immortal soul. 
+Disembodied souls cannot exist on the material plane without being bound to a physical object or living creature.
+The Limit of Life
+Life is a condition of physical entities characterized by independent motion and reproduction. Magic cannot alter the forces of Life to create true living creatures, nor restore the dead to life. As a corollary, magic cannot be utilized to restore damaged Stats (Will, Intellect, Strength, Fortitude, Agility, and Endurance) or Attributes (Morale, Vitality, and Stamina.)
+Many Magic theorists assert that this is a flaw in magical theory, although some theologians maintain that it is related to the limits of the soul.
 The Limit of Warping
-Prolonged exposure to active magic or high auras usually causes changes, generally referred to as warping. Hermetic magic is completely unable to affect these changes once they have happened. Most magi would like to believe that this derives from the Limit of the Divine, as that would make magic a manifestation of Divine power.
-The Limit of Energy
-Hermetic magic cannot restore one’s Attributes; i.e. Morale, Vitality, or Stamina. Most magi think that this is a flaw in Hermetic theory, although some believe it is related to the limits of the soul.
+Spell backfires and prolonged exposure to active magic or high auras can cause strange changes in the caster, generally referred to as “warping.” Magic cannot affect changes caused by warping once they have occurred, nor can it alter naturally acquired Traits.
 The Limit of Time
-Hermetic magic is incapable of altering the passage of time. It cannot affect anything in the past, and can only affect the future by making changes in the present. This limit also means that Hermetic magic cannot scry on the past or future. Most magi think this derives from the Limit of the Divine.
-Mechanic*
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-Detail 1*
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-Detail 2*
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+Magic cannot alter the passage of time, including details of past events. Magic can only impact the future by making changes in the present. 
+“The distinction between the past, present and future is only a stubbornly persistent illusion.” ― Albert Einstein
+The Limit of Essence
+Essence constitutes the property or set of properties that make an entity or substance what it fundamentally is, and which it has by necessity, without which it loses its identity. Magic cannot permanently affect something’s essence without tapping into raw arcane energy, thus limiting the temporal effects of all Generation and Destruction magic. Any magic that violates something’s essential nature must also be maintained, and when energy is no longer supplied the person or object returns to its natural state. Thus, Alteration magic must always be maintained, while the effects of Increase or Decrease magic can persist after the spell expires. 
+The Limit of Thought
+Magic effects are limited by the caster’s perception; thus, spells cannot directly impact a target until the caster is aware of it. Additionally, casters cannot gain insight beyond their natural senses. This limit prevents the ability to scry or remote view events or objects.
+The Limit of the Eternity
+Time is marked by the motion of the moon, planets, and stars. These celestial bodies spin through an ethereal void in an infinite dance. Each sphere contains its own realms which occasionally intersect with each other. Magic cannot impact the spheres’ movements; as such, spells cannot last forever.
+Theorists contend that the turning of the Celestial Spheres is directly related to the passage of time, and thus celestial events are inexorably linked to events in The World.
+Miracles
+Events that appear inexplicable by the known laws of nature and Magic can be ascribed to a supernatural origin or perhaps a direct act of Divinity. Miracles bend or break the laws of The World. 
+When a Miracle occurs, one Limitation of the Divine can be momentarily altered or disregarded. These are subject to the standard ruling limitations of Magic spells.
+Divine Intervention
+As the omnipotent and omniscient meta deity of The World, the GM reserves the right to alter rules of the universe as they see fit. Characters may entreat The Divine for a Miracle; however, many such prayers for Divine Intervention go unanswered. Nonetheless, these prayers for Divine Intervention must be announced by the player and spoken aloud by the character.
+Artifacts: Items of divine origin can be consumed to grant a Miracle.
+Martyrdom
+Sometimes, dying in ultimate adherence to a cause or to one's religious faith can result in a Miracle. If a player martyrs their character, a Miracle can be enacted in the precursor to or aftermath of the character’s death. 
+Hubris. The decision for a character to die should not be taken lightly, and the resultant Miracle can have profound implications in The World. As such, it is discouraged to create new characters for the sole purpose of sacrificing them for Miracles. Additionally, non-playable characters cannot be sacrificed to enact a Miracle. Attempting to do so tempts Divine retribution.
 The World 
-The map is not the territory. What arises from this method is a word seen through a narrative lens independent of exact distances or even time. At a minimum journeying through a terrain card takes a full day, however much greater lengths of time can pass as complications arise and the players dig into the emergent story. It is recommended to allow time to flow naturally. Don’t force things. Let encounters arise naturally and follow the flow. Don’t skip ahead into combat without the escalation. It will feel flat and without context.
-Time
-Distance is measured in time and time is measured in moments. There is no exact science to determining passage of time in the game except for the punctuation of the daily cycle. If longer cycles are required use the 28 day lunar cycle and 365 day solar cycle. Be lose with the length of time moment to moment, but strict with the tracking of days.
-Travel
-Problems: journeying across contesting kingdoms are very jealous of trade with neighbors. Often imposing steep tolls on guarded passes or along river ports, sometimes forcing sale at the location or high taxes.
-Exploration
-How do the cards interface with skills, exploration scouting?
-Arcana
-Each of the minor arcana cards serve as a set piece for action and drama. The stage is set by the terrain and weather, and the theme and conflict are determined by the card suit and meaning. All that is left to generate the drama is for the PC’s to act according to their character.
-
- 
-Tarot Cards
-Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-Wands
-Conflict with Nature
-new beginning	1
-generous person, courage,	2
-cooperation, good partnership,	3
-dissatisfaction, kindness,	4
-lawsuit or quarrel, courage,	5
-leadership, good news, success	6
-stiff competition, victory,	7
-new ideas, love, journey	8
-victory, good health, obstinacy	9
-pain, ruined, failure	10
-enthusiasm, exploration,	11
-generous, journey, impetuous	12
-fondness, attraction, command	13
-passionate, good leader, noble	14
-Cups
-Conflict with the Supernatural
-good health, love, joy, beauty	1
-romance, friendship, cooperation	2
-fortune, hospitality, discovery	3
-dissatisfaction, kindness, reevaluation,	4
-broken marriage, vain regret, sorrow	5
-acquaintance, good memories,	6
-imagination, illusion, directionless	7
-disappointment, abandonment,	8
-physical well-being, hopes, security	9
-friendship, happiness, life	10
-sweetness, interest in literature,	11
-emotional, romantic dreamer,	12
-loving mother, gentle, happiness	13
-kindness, willingness, enjoyment	14
-Swords
-Conflict with the Individual
-love, valiant, victory	1
-indecision, trouble, balanced	2
-broken relationship, civil war	3
-temporary exile, strife, retreat	4
-defeat, cowardliness, empty victory	5
-harmony, sorrow, journey	6
-betrayal, insolence, unwise attempt	7
-weakness, indecision, censure	8
-desolation, illness, suspicion, cruelty	9
-defeat, failure, pain	10
-grace, diplomacy, dexterity, grace	11
-strong, brave, clever person	12
-skillful, brave, clever, rush	13
-powerful, friendship, counselor	14
-Pentacles
-Conflict with Society
-prosperity, happiness, pleasure	1
-harmony, new projects, helpful	2
-abilities, approval, effort, abilities	3
-ungenerous, greed, miserly	4
-destitution, poor health, despair	5
-prosperity, philanthropy, charity	6
-development, re-evaluation, effort	7
-employment, money, learning, trade	8
-solitude, well-being, green thumb	9
-wealth, property, stability	10
-kindness, new ideas/opinions, scholar	11
-dull outlook, patience, animal lover	12
-thoughtfulness, intelligence, talents	13
-reliable person, steadiness	14
-Extra Thing 1:
-note: notes go here for things
-Major Arcana
-Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum	
-The Fool	0
-Beginnings, possibilities, pleasure, thoughtlessness, adventure, opportunity
-The Magician	1
-creativity, self-confidence, dexterity, sleight of hand, will-power, skill
-The High Priestess	2
-knowledge, wisdom, learning, intuition, impatience, virtue, purity
-The Empress	3
-development, accomplishment action, evolution
-The Emperor	4
-authority, father-figure, structure, solid foundation
-The Hierophant	5
-mercy, conformity, forgiveness, social approval, bonded, inspiration
-The Lovers	6
-harmony, trust, romance, optimism, honor, love, harmony
-The Chariot	7
-perseverance, rushed decision, turmoil, vengeance, adversity
-Strength	8
-courage, conviction, strength, determination, action, heroism, 
-The Hermit	9
-inner strength, prudence, withdrawal, caution, vigilance
-Wheel of Fortune	10
-unexpected events, advancement, destiny, fortune, progress
-Justice	11
-equality, righteousness, virtue, honor, harmony, balance
-The Hanged Man	12
-change, reversal, boredom, improvement, rebirth, suspension
-
-Death	13
-unexpected change, loss, failure, transformation, death, bad luck
-Temperance	14
-patience, good influence, confidence, moderation
-The Devil	15
-downfall, unexpected failure, controversy, ravage, disaster, ill tempered
-The Tower	16
-disruption, abandonment, end of friendship, bankruptcy, downfall, unexpected events
-The Star	17
-balance, pleasure, optimism, insight, spiritual love, hope, faith
-The Moon	18
-double-dealing Deception, disillusionment, trickery, error, danger, disgrace
-The Sun	19
-accomplishment, success, love, joy, happy marriage, satisfaction
-Judgement	20
-awakening, renewal, rejuvenation, rebirth, improvement, promotion, atonement, judgment
-The World	21
-perfection, recognition, success, fulfillment, eternal life
-
-Extra Thing 2:
- 
+The World is an optional module that uses Tarot cards to randomly and procedurally generate a campaign setting. This process creates a rough map of The World, but not a precise record of national borders, geography, rivers, coastlines, or oceans; the map is not the territory. 
+Getting Started
+This module requires a set of Tarot cards for the look-up tables to function completely; however, a regular deck of playing cards will suffice to generate a limited set of Terrain, Weather, and card Scene Reading options.
+Generation
+This system uses randomly drawn cards. The card number, suit, and orientation are compared to look-up tables to determine the Terrain, Weather, and central conflict experienced by the characters. In some cases, the numbers from several consecutive cards will be used to generate features of The World.
+Drawing Cards
+Shuffle the deck of cards being used. Draw three cards and place them in a row. Place the characters on the third card; then, draw three more cards. Place these three face-down surrounding the characters’ card. Following resolution of the current conflict, reveal the three face-down cards and provide a brief description of their Terrain, Weather, and challenge. Alternatively, a larger world can be generated beforehand and revealed as the characters explore.
 Terrain
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et accumsan augue. 
-Heading 3
-Description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et accumsan augue. 
-World Tree	1
-Fey Wild's	2
-Tropical rainforest	3
-Seasonal rainforest	4
-Savanna	5
-Temperate deciduous forest	6
-Temperate evergreen forest	7
-Heath (lowlands)	8
-Thorn woodlands	9
-Riverlands	10
-Elfin woodland	11
-Sandy coastland	12
-Temperate woodland	13
-Fjordic coastland	14
-Fenlands	15
-Lakes	16
-Rocky coastland	17
-Temperate farmland	18
-Bog	19
-Temperate shrublands	20
-volcanic 	21
-Alpine grasslands	22
-Montane rainforest	23
-Boreal forests (taiga)	24
-Moors (Highlands)	25
-Tundra	26
-Glacial	27
-Arctic-alpine desert	28
-Mountain Summit	29
-Alpine floating islands	30
-Heath floating islands	31
-Temperate floating islands	32
-Tropical floating islands	33
-Tropical floating city	34
-Temperate floating city	35
-Heath floating city	36
-Alpine floating city	37+
-
- 
+Terrain is determined by adding the current and previous card’s values, then comparing this sum to the Terrain look-up chart. At the extreme edges of the distribution lie supernatural terrains that border between The World and other planes of existence.
 Weather
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et accumsan augue. 
-Summer disaster	1-
-Typhoon	0
-Wind storm	1
-Lightning storm	2
-Heavy rain	3
-Moderate winds	4
-Thunderstorms	5
-Moderate rain	6
-Light winds	7
-Scattered thunderstorms	8
-Light rain	9
-Drizzle	10
-Overcast	11
-Cloudy	12
-Cloudy	13
-Partly cloudy	14
-Partly cloudy	15
-Clear skies	16
-Clear skies	17
-Sunny	18
-Sunny	19
-Sunny	20
-Sunny	21
-Sunny	22
-Sunny	23
-Sunny	24
-Clear skies	25
-Clear skies	26
-Partly cloudy	27
-Partly cloudy	28
-Cloudy	29
-Cloudy	30
-Overcast	31
-Freezing rain	32
-Light snow	33
-Light ice	34
-Light hail	35
-Moderate snow	36
-Moderate ice	37
-Moderate hail	38
-Heavy snow	39
-Ice storm	40
-Hail storm	41
-Blizzard	42
-Winter disaster	43+
- 
-Thanks
-Ataraxia was made possible due to the encouragement, feedback and assistance of my friends, family, and RPG community
-This game was made using the free fonts Crimson Text and Davida Becker.
-Games used as inspiration for this ruleset: 
-	Ars Magica
-	Burning Wheel
-	Darkest Dungeon
-	Dungeons & Dragons
-	Knave
-	Torchbearer
+As with Terrain, Weather is calculated by adding the current and previous card’s values, then comparing this sum to the Weather look-up chart. Lower values correspond to summery weather; conversely, higher values correspond to wintry weather.
+The Weather is subject to change throughout a Scene depending on the narrative unfolding, and Weather inconsistent with the Terrain or Scene may be altered by the GM as necessary. The primary purpose of the Weather is to provide additional challenge for the characters and an emotional backdrop for the narrative.
+Scene Reading
+A 78 card Tarot deck has 56 cards that belong to one of four suits. Of this 56, 14 cards comprise the ‘Minor Arcana.’ The remaining 22 cards have no suit, and comprise the ‘Major Arcana.’ These cards deal with archetypes and universal symbols; they can be interpreted within any culture, place, or time.
+Each Tarot card serves as a set piece for action and drama. Terrain and Weather calculations set the stage; the card’s suit and meaning produce the theme and type of conflict. Players help generate drama by acting out their characters.
+Suit
+The card’s suit determines the type of conflict encountered by the characters. Aspects of the conflicts ascribed to other suits can be present in any card, but the card’s suit will determine the primary type of conflict.
+Wands: Conflict with Nature; focus on creativity and will
+Cups: Conflict with the Supernatural; focus on emotions and love
+Swords: Conflict with the Individual; focus on reason
+Pentacles: Conflict with or within Society; focus on the material or possessions
+Major Arcana: Conflict between two or more of the above suits.
+Card Meaning
+Each card has a canonical meaning or interpretation reflected not only in its associated words and images, but also in the current Weather, Terrain, and circumstances in which characters find themselves. Improvising in the moment is encouraged as much as possible, in order to maintain the ‘sandbox’ aspect of The World.
+Upright / Reversed
+Most interpretations of Tarot cards correspond to the upright orientation of the card; however, it is possible for a card to appear in an upside-down or in a reversed orientation. When this occurs, the standard meaning of the card is reversed or opposite from the upright interpretation. 
+Return Travel: When returning to a card, invert its orientation from the previous position.
+Exploration
+“It's a dangerous business, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.” ― Bilbo
+Time
+Distance is measured in time, which is measured in moments. Only the daily cycle formally punctuates the passage of time in The World. 
+Timekeeping: It is recommended to be loose with the length of time moment to moment, but strict with the tracking of days. This allows actions to carry appropriate narrative weight while still maintaining the verisimilitude of a coherent world.
+Travel
+At a minimum, journeying through a terrain card takes a full day; however, much greater lengths of time can pass as complications arise and the players engage with the emergent story.
+Scouting
+Adjacent cards are revealed after the current card’s conflict has been resolved. While rough estimates of Terrain and Weather can be provided by utilizing the look-up tables, scouting Tests may reveal more details. 
+Survival
+Each Terrain and Weather condition has an associated Challenge value. Summing these two values together generates a Test value against which to compare rolls to survive exposure to the elements or forage for food and water. This value should serve as a rough guide and can be tweaked as necessary.
+Terrain
+The Terrain constitutes the geography, climate, and ecological biomes that comprise The World. Terrain number can be calculated by summing the current and previous card’s values.
+Ecology
+Ecosystems consist of all the organisms and the physical environment with which they interact.
+Wildlife
+Wildlife constitutes all of the natural organisms that grow or live in an area without the intervention of civilization. Each Terrain biome has its own unique collection of flora and fauna that have formed in response to a shared regional climate and environment.
+Rivers
+A river constitutes a natural flowing watercourse, usually of freshwater, moving towards an ocean, sea, lake, or another river. Any terrain biome can have a river running through it. Rivers tend to run towards costal or lake cards (15-18) from either lower or higher number cards. Rivers appear on even numbered cards, but can also be present as the narrative demands.
+Oceans
+Only coastlands offer direct access to the sea; however, ships may travel rivers as applicable. There are no ‘ocean’ terrains, so trips between ports effectively act as extended down time with opportunities for nautical challenges. Cards can be randomly drawn to generate weather experienced along the journey that may divert the ship from its course.
+Civilization
+Settlements
+All Terrains can support past or present human settlements and land cultivation. Below is a guide for adding settlements to various card suits and orientations.
+	Pentacles (upright): A society or settlement that is thriving
+	Pentacles (reversed): A society or settlement in decline
+	Other (upright): Ancient ruins
+	Other (reversed): Recent ruins
+Population Density: Terrains with high or low numbers typically support lower populations than average Terrains.
+Culture
+Terrain Preference: Different peoples or states can prefer particular Terrains, allowing for a diverse and potentially competitive political and cultural landscape. For example, culture A could have a primary preference for Desert and Oasis, with a secondary preference for Plains and Flood Plains. In this way, each Terrain might have a primary, secondary, etc. culture present.
+Weather
+Weather serves to color the setting and offer additional complications during environmental transversal. 
+Seasons
+Cyclic seasons can be created by iteratively adding and subtracting values from the Weather value. For a full year cycle, mark the equinoxes by a zero Weather offset and iteratively subtract or add an offset until a maximum value corresponding to the solstice for Summer and Winter, respectively.
+Terrain
+Location	#	Challenge
+Underworld	≤1	9
+World Tree	2	7
+Tropical Rainforest	3	5
+Tropical Swamps	4	5
+Rainforest	5	4
+Deciduous forest	6	3
+Evergreen forest	7	3
+Thorn woodlands	8	3
+Oasis	9	2
+Desert	10	5
+Plains	11	3
+Lowlands	12	2
+Flood Plains	13	2
+Fenlands	14	2
+Sandy coastland	15	1
+Fjordic coastland	16	1
+Rocky coastland	17	2
+Lakeland	18	1
+Temperate farmland	19	1
+Temperate woodland	20	1
+Bog	21	3
+Scrub woodland	22	2
+volcanic 	23	4
+Alpine grasslands	24	2
+Boreal forests	25	2
+Montane rainforest	26	3
+Highlands	27	3
+Tundra	28	4
+Glacial	29	5
+Mountain summit	30	6
+Floating islands	31	9
+City in the clouds	≥32	4
 
-Creative Commons Attribution 4.0 International License: You are free to share and adapt this material for any purpose, including commercially, as long as you give attribution.
+Weather
+Location	#	Challenge
+Eclipse	≤3	0
+Eye of the Storm	4	2
+Hurricane	5	7
+Lightning storm	6-7	5
+Heavy rain	8-9	5
+Thunderstorms 	10-11	3
+Moderate rain	12-13	3
+Light rain	14-15	2
+Drizzle	16	3
+Windy	17	2
+Overcast	18	2
+Cloudy	19	2
+Foggy	20	1
+Partly cloudy	21	1
+Clear skies	22	1
+Sunny	23-25	0
+Clear skies	26	1
+Partly cloudy	27	1
+Cloudy	28	1
+Overcast	29	1
+Mists	30	2
+Light rain	31	2
+Cold rain	32	2
+Freezing rain	33	2
+Light snow	34	3
+Light hail	35-36	3
+Moderate snow	37-38	4
+Heavy snow	39-40	5
+Hail storm	41-42	6
+Blizzard	43-44	7
+Aurora Borealis	45-46	2
+Eclipse	≥47	0
+Minor Arcana
+The Minor Arcana represent the relatively mundane features of life. Each suit has distinctive characteristics and connotations.
+“Do not be afraid; our fate cannot be taken from us; it is a gift.” ― Dante Alighieri, Inferno
+Wands
+Wands indicate conflict with Nature and focus on creativity and will. The suit of Wands is associated with Spring and Fire, so it carries active messages of boldness, ambition, competitiveness, and initiative. Whenever a card of Wands appears, action or change follow. Powerful and passionate, cards of Wands convey bold movements or warn of over-extension.
+The suit of Wands represents energy of movement, creativity, and invention; it also represents ideas, innovation, and an entrepreneurial spirit. Interpretations often relate to livelihood or a sense of purpose in the world. 
+Cups
+Cups indicate conflict with the Supernatural and focus on emotions and love. The suit of Cups is associated with Summer and Water, encouraging the flowing of feelings and the pursuit of happiness. Some of the most fortunate of all Tarot cards lie in the suit of Cups, yet these cards can also lead to confusion in relationships, disillusionment with perceived reality, or alterations of the self.
+
+The suit of Cups represents emotions, relationships, and matters of the soul. Whenever a card of Cups appears, an emphasis on dreams, heart, spirit, and intuition follows. From great joy to immense grief, cards of Cups reveal how we truly feel—and how others feel about us. 
+Swords
+Swords indicate conflict with the Individual and focus on reason. The suit of Swords is associated with Autumn and Air. These cards enhance the mind, expand clarity and consciousness, and sharpen the edge of truth. Because of this strong connection to truth, cards of Swords also carry heavy interpretations about justice and fairness.
+The suit of Swords represents conflict and strife, external and internal. These cards cut to the heart of a matter, revealing challenges such as disease, war, grief, loss, and death. However, these cards also reveal truths in need of facing in order to overcome obstacles and move forward. 
+Pentacles
+Pentacles indicate conflict with or within Society and focus on the material and possessions. The suit of Pentacles is associated with Winter and Earth, reflecting stability, pragmatism, and determination, as well as both giving and receiving. 
+The suit of Pentacles suit represents the material and physical world. Cards of Pentacles represent an imbalance in the material world, manifesting as societies experiencing dark ages or renaissances alike. 
+Wands
+Wands centers around action, initiative, and invention, as well as guidance on how to move through life effectively, which manifests as conflict with Nature.
+1. Ace of Wands
+Upright: New business, beginning, birth, inheritance, calamity
+Reversed: Selfishness, lack of determination, birth
+2. Two of Wands
+Upright: Generosity, courage, patience
+Reversed: Impatience, domination
+3. Three of Wands
+Upright: Cooperation, good partnership, success
+Reversed: Carelessness, arrogance, pride, mistakes
+4. Four of Wands
+Upright: Dissatisfaction, kindness, reevaluation, unexpected fortune
+Reversed: New relationship, new ambitions, offspring
+5. Five of Wands
+Upright: Lawsuit or quarrel, courage, competition, fiscal success
+Reversed: New opportunities, harmony, generosity, productive quarrels
+6. Six of Wands
+Upright: Leadership, good news, success
+Reversed: Postponement, bad news, pride in riches, lack of trust
+7. Seven of Wands
+Upright: Competition, victory, courage, energy, darkness
+Reversed: Advantage, patience, indecision
+8. Eight of Wands
+Upright: New ideas, love, journey
+Reversed: Violence, quarrels, courage
+9. Nine of Wands
+Upright: victory, good health, obstinacy
+Reversed: weakness, ill-health, adversity
+10. Ten of Wands
+Upright: Pain, failure, contradictions
+Reversed: Cleverness, energy, strength
+11. Page of Wands
+Upright: Enthusiasm, exploration, discovery, free spirit
+Reversed: Setbacks, pessimism, lack of direction
+12. Knight of Wands
+Upright: Generous, journey, alienation
+Reversed: Suspicion, jealousy, frustration
+13. Queen of Wands
+Upright: Fondness, attraction, command, harvest
+Reversed: Jealous, revengeful, infidelity
+14. King of Wands
+Upright: Passionate, good leader, noble, marriage
+Reversed: Unyielding, prejudice, quarrels, advice
+Cups
+Cups relates to emotions, relationships, and matters of the soul, which manifests as conflict with the Supernatural.
+1. Ace of Cups
+Upright: Health, inflexibility, beauty
+Reversed: Egotism, surprise, selfishness
+2. Two of Cups
+Upright: Romance, friendship, cooperation, pleasure
+Reversed: Passion, misunderstanding
+3. Three of Cups
+Upright: Fortune, hospitality, discovery 
+Reversed: Hidden, overindulgence, pain, gossip, cure
+4. Four of Cups
+Upright: Dissatisfaction, kindness, reevaluation, redemption
+Reversed: Beginning, ambitions
+5. Five of Cups
+Upright: vain regret, sorrow, loss
+Reversed: Return, summon, hope
+6. Six of Cups
+Upright: Leadership, good news
+Reversed: Postponement, bad news, pride in riches
+7. Seven of Cups
+Upright: Competition, victory, courage, energy, resolve
+Reversed: Advantage, patience, indecision
+8. Eight of Cups
+Upright: Marriage, love, journey
+Reversed: Violence, courage, satisfaction
+9. Nine of Cups
+Upright: Physical well-being, hopes, security, might
+Reversed: Illness, failure, overindulgence, abundance
+10. Ten of Cups
+Upright: Companionship, happiness
+Reversed: Waste, departure, quarrel
+11. Page of Cups
+Upright: Sweetness, interest in literature, gentleness, unrequited love
+Reversed: Poor imagination, selfishness, no desires, obstacles
+12. Knight of Cups
+Upright: Emotional, romantic dreamer, intelligence, friendly visit
+Reversed: Idleness, untruthful, fraud, sensuality, irregularity
+13. Queen of Cups
+Upright: Loving mother, gentle, happiness, equivocal
+Reversed: Perverse, unhappy, gloom, over-active imagination
+14. King of Cups
+Upright: Kindness, willingness, enjoyment, hypocrisy
+Reversed: Charlatan, scandal, crafty, violent, loss
+Swords
+Swords reflects conflict and strife, whether external or internal in nature, which manifests as conflict with The Individual.
+1. Ace of Swords
+Upright: Valiant, prosperity, misery
+Reversed: Obstacles, tyranny, power
+2. Two of Swords
+Upright: Indecision, trouble, balanced
+Reversed:  Unscrupulous, roguery
+3. Three of Swords
+Upright: Broken relationship, civil war
+Reversed: Sorrow, loss, confusion
+4. Four of Swords
+Upright: Temporary exile, strife, retreat
+Reversed: Social unrest, labor strikes, renewed activity, administration
+5. Five of Swords
+Upright: Defeat, cowardliness, empty victory
+Reversed: Unfairness, defeat, loss
+6. Six of Swords
+Upright: Harmony, sorrow, journey
+Reversed: Obstacles, difficulties, defeat
+7. Seven of Swords
+Upright: Betrayal, insolence, unwise attempt, retirement
+Reversed: Counsel, helpful, advice, unheeded
+8. Eight of Swords
+Upright: Weakness, indecision, censure
+Reversed: Freedom, new beginnings, relaxation, departure
+9. Nine of Swords
+Upright: Desolation, illness, suspicion, cruelty
+Reversed: Unselfishness, good news, healing, justified suspicion
+10. Ten of Swords
+Upright: Defeat, failure, pain
+Reversed: Courage, positive energy, good health
+11. Page of Swords
+Upright: Grace, diplomacy, dexterity, grace, indiscretion
+Reversed: Imposture, ill-health, cunningness, astonishment
+12. Knight of Swords
+Upright: Strong man, brave, clever person, heroic
+Reversed: Troublemaker, crafty, tyranny, imbecile, dispute
+13. Queen of Swords
+Upright: Skillful, brave, clever, urgency, widow
+Reversed: Sly, keen, deceitful
+14. King of Swords
+Upright: Powerful, friendship, counselor, high status
+Reversed: Obstinate, malicious, judgments
+Pentacles
+Pentacles pertains to possessions and the material or mundane world, which manifests as conflict with or within Society. 
+1. Ace of Pentacles
+Upright: Prosperity, happiness, pleasure
+Reversed: Misery, greedy, shared
+2. Two of Pentacles
+Upright: Harmony, efforts, helpful
+Reversed: Difficulty, discouragement
+3. Three of Pentacles
+Upright: Abilities, approval, effort
+Reversed: Preoccupation, ambitions
+4. Four of Pentacles
+Upright: Ungenerous, greed, miserly
+Reversed: Spendthrift, obstacles, earthy possessions
+5. Five of Pentacles
+Upright: Destitution, poor health, despair, loneliness, conquest
+Reversed: Employment, courage, revival
+6. Six of Pentacles
+Upright: Prosperity, philanthropy, charity, gifts
+Reversed: Jealousy, miserliness, unfairness
+7. Seven of Pentacles
+Upright: Development, re-evaluation, effort, hard work
+Reversed: Impatience, apprehension
+8. Eight of Pentacles
+Upright: Employment, money, learning, trade
+Reversed: Void, no ambition, dislike, lending
+9. Nine of Pentacles
+Upright: Solitude, well-being, green thumb
+Reversed: Caution, possible loss, vain hopes
+10. Ten of Pentacles
+Upright: Wealth, property, stability, community
+Reversed: Dull, slothfulness, misfortune
+11. Page of Pentacles
+Upright: Kindness, new ideas, opinions, scholar
+Reversed: Luxury, rebellious, bad news
+12. Knight of Pentacles
+Upright: Usefulness, patience, lover, discovery, trustworthy
+Reversed: Unemployment, carelessness, standstill, irresponsible
+13. Queen of Pentacles
+Upright: Thoughtfulness, intelligence, talents, melancholy, opulence
+Reversed: Mistrust, suspicion, neglect, infirmness
+14. King of Pentacles
+Upright: Mercantile, reliable person, steadiness, master
+Reversed: Bribes, materialistic, calm, aged, vicious
+Major Arcana
+0. The Fool
+The Fool represents the protagonist of a story; the Major Arcana follows the Fool’s path through the great mysteries of life. This path is known traditionally in Tarot cards as the "Fool's Journey".
+Upright: Folly, mania, extravagance, intoxication, delirium, frenzy
+Reversed: Negligence, absence, distribution, carelessness, apathy, nullity, vanity.
+1. The Magician
+The Magician reflects energy, potential, and the manifestation of one's desires; this card symbolizes the meetings of the physical and spiritual worlds "as above, so below" and the conduit converting spiritual energy into real-world action.
+Upright: Talent, willpower, desire, diplomacy, creation, manifestation
+Reversed: Unfocused, trickery, illusions, disconnection, disgrace, disquiet
+2. The High Priestess
+The High Priestess depicts the divine feminine; religion, self, nature. She represents intuition, and someone beginning to open up their spirituality. The card indicates meditation, prayer, and new spiritual work. 
+Upright: Secrets, mystery, divinity, harmony, intuition, unconscious, 
+Reversed: Passion, profane, centerless, repression, discordance, conceit
+3. The Empress
+The Empress represents the mundane Garden of Eden, the "Earthly Paradise." She is defined as a Refugium Peccatorum —a fruitful mother of thousands: "she is above all things universal fecundity and the outer sense of the Word, the repository of all things nurturing and sustaining, and of feeding others.”
+Upright: Fertility, fruitfulness, action, initiative, ignorance, the unknown
+Reversed: Light, truth, unravelling, rejoicing, indecision, dependence
+4. The Emperor
+The Emperor represents authority, regulation, organization, and a fatherliness. The Emperor, a strategic thinker, conceives of plans that he must complete. He symbolizes the masculine principle—the paternal figure in life that gives structure, creates rules and systems, and imparts knowledge.
+Upright: Stability, power, protection, realization, greatness, authority, will
+Reversed: Benevolence, compassion, obstruction, immaturity
+5. The Hierophant
+The Hierophant is the summa totius theologiæ; he symbolizes the righteous and sacred on the manifest side. As such, he constitutes the channel of grace for institutions, distinct from Nature, and leads the salvation of the human race at large.
+Upright: Marriage, tradition, alliance, conformity, mercy, inspiration
+Reversed: Rebellion, subversion, understanding, weakness, separation
+6. The Lovers
+The Lovers suggests youth, virginity, innocence, and love before the contamination of gross material desire.  In all simplicity, this card reflects human love, the truth, and life; as such, this card also pertains to the great mysteries of the union between Adam and Eve prior to their expulsion from edenic paradise.
+Upright: Attraction, love, beauty, trials, partnership, union, duality, innocence, naïveté.
+Reversed: Failure, disharmony, foolishness, infertility, imbalance
+7. The Chariot
+On the shoulders of the victorious hero are the Urim and Thummim.  Though he has conquered all planes through his progress and in trials of initiation, He is held captive by structures and forces of his own creation. He represents, above all things, triumph of the mind over the body.
+Upright: Direction, providence, war, triumph, presumption, vengeance
+Reversed: Aggression, riot, quarrel, dispute, litigation, defeat, directionless
+8. Strength
+Primal power, in one of its most exalted aspects, connects with the Divine Mystery of Union; the virtue, of course, operates in all planes, and hence draws on all in its symbolism. It connects also with innocentia inviolata, and with the strength residing in contemplation.
+Upright: Power, energy, action, courage, magnanimity, success, honours
+Reversed: Despotism, abuse of power, weakness, discord, disgrace
+9. The Hermit
+The Hermit represents attainment; the card’s figure holds up his beacon on an eminence. Therefore, the Hermit is neither a wise man seeking truth and justice nor a noteworthy example of experience. Instead, his beacon declares "where I am, you also may be" and the truth that the Divine Mysteries secure their own protection from those who are unprepared.
+Upright: Prudence, circumspection, treason, dissemination, corruption
+Reversed: Concealment, disguise, isolation, fear, trepidation, loneliness
+10. Wheel of Fortune
+The Wheel of Fortune symbolizes the perpetual motion of a fluidic universe and the flux of human life. Notably, the inscription has the transliteration of Taro as Rota, counterchanged with the letters of the Divine Name—to show that Providence is implied through all. 
+Upright: Destiny, fortune, cycles, change, success, elevation, luck, fate
+Reversed: Increase, abundance, superfluity, disorder
+11. Justice
+Justice sits between pillars, indicating the moral principle which deals unto every Man according to his works, differing in its essence from spiritual justice. The pillars of Justice open into one world and the pillars of the High Priestess into another.
+Upright: Equity, rightness, integrity, executive; triumph, truth
+Reversed: Bureaucracy, complications, bigotry, bias, severity, dishonesty
+12. The Hanged Man
+The gallows from which The Hanged Man is suspended forms a Tau cross, while his figure forms a fylfot cross. A nimbus halo hovers about the head of the seeming martyr. The tree of sacrifice is living wood, with leaves thereon; the face expresses deep entrancement, not suffering; the figure, as a whole, suggests life in suspension, but life and not death.
+Upright: Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy, martyrdom
+Reversed: Selfishness, hysteria, zealotry, vainness, cowardice, indolence
+13. Death
+Death pierces the veil of life with change, transformation, and passage from lower to higher. Behind it lies the whole world of ascent in the spirit. The horseman carries no visible weapon, but king and child and maiden fall before him, while a bishop awaits his end.
+Upright: Mortality, unemployment, destruction, corruption, miscarriage
+Reversed: Inertia, sleep, lethargy, petrifaction, somnambulism, hopeless
+14. Temperance
+Temperance represents the part of the Secret of Eternal Life available to mortal man. When manifest in consciousness, it tempers, combines, and harmonizes the psychic and material natures. Under that rule, we know in our rational part something of whence we came and where we are going.
+Upright: Economy, moderation, patience, frugality, accommodation
+Reversed: Institutions, religion, excess, priesthood, disunion, extremes
+15. The Devil
+The figures below The Devil have tails, signifying their animalistic nature, but their faces depict human intelligence. He who is exalted above them in occult science and magic is not forever their master. It signifies the Dweller on the Threshold without the Mystical Garden when eaters of the forbidden fruit are driven forth.
+Upright: Ravage, indulgence, servitude, vehemence, extremes, predestination
+Reversed: Freedom, release, weakness, pettiness, blindness
+16. The Tower
+The Tower signifies the materialization of the spiritual word and destruction of the physical. The Tower has been spoken of as the chastisement of pride and the intellect overwhelmed in the attempt to penetrate the Mystery of God. It is the ruin of the House of Man, when evil has prevailed, and the rending of a House of Doctrine.
+Upright: Misery, distress, indigence, adversity, disgrace, catastrophe
+Reversed: Negligence, apathy, absence, deliverance, distraction, vanity
+17. The Star
+The Star is l'étoile flamboyante; the flaming expression of eternal youth and beauty. The figure communicates the substance of the Heavens and the elements, or the "Waters of Life " and "Gifts of the Spirit,” to the living scene.
+Upright: Loss, privation, abandonment, hope, light, prospects, rejuvenation
+Reversed: Arrogance, haughtiness, impotence, insecurity, faithlessness
+18. The Moon
+The Moon represents the living imagination, separate from the living spirit. The path between the towers leads into the unknown, portraying the fears of the natural mind in the presence of the void. Here, reflected light serves as the sole guide. The intellectual light is a reflection; beyond it lies an unknown mystery that it cannot shew forth. It illuminates our animalistic nature, those nameless and hideous tendencies beneath even savage beasts, striving to attain manifestation but always sinking back whence they came. The face of the mind directs a calm gaze upon the unrest below, knowing that there shall come a calm upon the animal nature while the abyss beneath shall cease from giving up a form.
+Upright: Danger, illusion, darkness, terror, deception, occult, unconscious
+Reversed: Instability, inconstancy, silence, confusion, misinterpretation
+19. The Sun
+The Sun reflects the destiny of the Supernatural East and the great and holy light which goes before the endless procession of humanity, coming out from the walled garden of the sensitive life and passing on the journey home. This card signifies the transit from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes before aspiration and is typified by the heart of a child. The sun is that of consciousness in the spirit—the direct as the antithesis of the reflected light.
+Upright: Material happiness, joy, flourishing marriage, serenity
+Reversed: Material possession, stable marriage, contentment, unfulfillment
+20. Judgement
+All the figures become one in wonder, adoration, and ecstasy. Judgement acknowledges the accomplishment of transformational work in answer to the summons of the Supernal, that which we hear and answer from within. The higher calling within sounds a trumpet and the lower nature rises in response to the Last judgment, the natural body’s resurrection, eternal life. 
+Upright: Rebirth, absolution, reflection, causality, redemption, reckoning
+Reversed: Rejection, fear, uncertainty, doubt, self-loathing
+21. The World
+The World represents the perfection and end of the Cosmos, its hidden secrets, and the universe’s rapture when it understands itself in God. It is further the state of the soul in the consciousness of Divine Vision, reflected from the self-knowing spirit, and the state of the restored world when manifestation has been carried to the highest degree of natural perfection. But it is perhaps principally a story of the past, referring to that day when all was declared to be good, when the morning stars sang together and all the Sons of God shouted for joy. Lastly, it has been called the Crown of the Magi.
+Upright: Assured success, recompense, voyage, route, emigration, flight, travel, harmony, fulfillment, completion
+Reversed: Inertia, fixity, stagnation, permanence, incompletion, emptiness
+ 
  
-
+Indices 
+Lifepaths
+A full updated list of all lifepaths can be found at the following google drive location 
+You may have to copy the link directly into your browser.
+https://docs.google.com/spreadsheets/d/13eDrdlENhgEpoKKKfYvcWultb81Uxut2qtYSfFra4nc/edit?usp=sharing
 
  
-Character Name:	Age:
-Player:		Inspiration:
-Lifepaths - Wises
+Skills
+Note: new skills can be added as necessary.
+† indicates a Might skill
+* indicates a Magic skill
+A
+Accounting
+Acrobatics
+Acting
+Administration
+Alchemy *
+Anatomy
+Ancient Languages
+Animal Handling
+Apothecary *
+Appraisal
+Archaeology
+Architect
+Armoury
+Arson
+Artillery
+Astrology *
+Astronomy
+Aura Reading *
+Axe †
+B
+Baking
+Bargaining
+Begging
+Bloodletting *
+Bow †
+Boxing †
+Brawling †
+Brewing
+Bribery
+Building
+Bureaucracy
+Butchery
+C
+Calligraphy
+Camouflage
+Campaigning
+Carpentry
+Cartography
+Carving
+Child-Rearing
+Church Law
+Cleaning
+Climbing
+Cobbling
+Command
+Conspicuous
+Cooking
+Counterfeiting
+Crossbow †
+Cryptography
+Cudgel †
+D
+Dance
+Demonology
+Diatribe
+Digging
+Diplomacy
+Disguise
+Distillation
+Diving
+Doctrine
+Drinking
+Driving
+Drum
+Dyeing
+E
+Embroidery
+Enchanting *
+Engineering
+Engraving
+Estate Management
+Etiquette
+Extortion
+F
+Faith*
+Falconry
+Falsehood
+Farming
+Field Dressing
+Firearms †
+Firebombs
+Firebuilding
+Fishing
+Fletching
+Flute
+Folklore
+Foraging
+Foreign Languages
+Forgery
+Formation Fighting
+Fortifications
+G
+Gambling
+Gardening
+Garrote
+Gem Shaping
+Geography
+Geology
+Geometry
+Grappling †
+H
+Haggling
+Hammer †
+Hauling
+Heraldry
+Herbalism
+Herding
+Heretical Doctrine
+Hiking
+History
+Housekeeping
+Hunting
+I
+Illustration
+Inconspicuous
+Instruction
+Interrogation
+Intimidation
+Invention
+Irrigation
+J
+Jargon
+Javelin
+K
+Knives †
+Knots
+L
+Lance †
+Lash
+Law
+Leadership
+Leatherworking
+Lock Pick
+Locksmith
+Logging
+Logic
+Logistics
+Luthier
+M
+Mace †
+Management
+Marching
+Mason
+Mathematics
+Meditation
+Mending
+Metallurgy
+Meteorology
+Midwifery
+Milling
+Mimicry
+Mining
+Munitions
+Musical Composition
+Musical Instrument
+N
+Navigation
+Nursing
+O
+Observation
+Occultism
+Oratory
+Orienteering
+P
+Painting
+Persuasion
+Philosophy
+Physics
+Pickpocket
+Piloting
+Platitudes
+Playwright
+Poetry
+Poisons
+Polearm †
+Politics
+Preaching
+Preservation
+Prospecting
+R
+Read
+Research
+Rhetoric
+Riding
+Rigging
+Ritual *
+Runic Charms*
+S
+Saddlery
+Sailing
+Scavenging
+Sculpture
+Seamanship
+Seduction
+Serving
+Sewing
+Shield †
+Shipwright
+Siege
+Signaling
+Sing
+Skiing
+Sleight of Hand
+Smithing
+Smuggling
+Sorcery *
+Spear †
+Spirit Binding *
+Staff †
+Stealth
+Strategy
+Summoning *
+Surgery
+Surveying
+Survival
+Swimming
+Sword †
+Symbology
+T
+Tactics
+Tanning
+Tasting
+Taxidermy
+Theology
+Throwing
+Torture
+Tracking
+Trapping
+U
+Ugly Truth
+W
+Weaving
+Wrestling †
+Write 
+ 
+ 
+Traits
+Note: new Traits can be added as necessary.
+A
+A Bit Deaf
+A Little Crazy
+Abashed
+Ablutomania
+Abused
+Abusive
+Academic
+Aching
+Addicted
+Addled Brains
+Aggressive
+Agoraphobic
+Agreeable
+Alarmist
+Alcoholic
+Alert
+Aloof
+Ambidextrous
+Ambitious
+Amenable
+Amputated Limb
+Anemic
+Apostate
+Apprehensive
+Arachnophobia
+Arcane
+Arrogant
+Authoritative
+Automatonophobia
+Awkward
+B
+Bad Reputation
+Balanced
+Bastard
+Batshit Insane
+Bedside Manners
+Bee-speaker
+Believer
+Big Boned
+Big Spender
+Bitten
+Black Lung
+Blank Stare
+Blasphemer
+Blind
+Blistered
+Bloodthirsty
+Boaster
+Bookworm
+Booming Voice
+Bored
+Boring
+Brash
+Brave
+Broken
+Broken Bone
+Bruiser
+Brusque
+Brutal
+Bully
+Burnt
+Buxom
+C
+Called to the Sea
+Callous
+Calm
+Cassandra
+Cautious
+Celestial
+Charismatic
+Charming
+Chosen One
+Chronologue
+Chuffing
+Cipher
+Circumspect
+Claustrophobic
+Clumsy
+Cocky
+Cold Hearted
+Collector
+Color Blind
+Colorful
+Comely
+Comfortable Shoes
+Commanding Aura
+Compassionate
+Compulsive
+Compulsive Liar
+Concussed
+Condescending
+Confident
+Confusing
+Connected
+Contortionist
+Cool Headed
+Corrupt
+Cowardly
+Creepy
+Crippled
+Crotchety
+Cruel
+Cryptic
+Curious
+Cursing
+Cynical
+D
+Dangerous
+Daring
+Deadly
+Deaf
+Death Wish
+Debauched
+Deep Sleeper
+Defensive
+Deferential
+Demagogue
+Demented
+Demonomania
+Deranged
+Desperate
+Despondent
+Determined
+Deviant Tastes
+Devout
+Diligent
+Diminuitive Stature
+Dirty Hands
+Disciplined
+Diseased
+Disfigured
+Dislocated Joint
+Dismissive
+Distracted
+Disturbed
+Domineering
+Dour
+Down to Earth
+Downtrodden
+Dramatic
+Dreadful
+Dreamer
+Driven
+Drunk
+Dumb
+Dusty
+Dutiful
+E
+Eagle Eye
+Early Riser
+Earthen
+Educated
+Egocentric
+Eidetic Memory
+Eldritch
+Elfin
+Emotional
+Enlightened
+Entropic
+Ergotism
+Erudite
+Esoteric
+Eunuch
+Evasive
+Evil
+Exasperated
+Exhausted
+Extra Digit
+Extrovert
+F
+Faded
+Faith in the Old Gods
+Faithful
+Faithless
+Familiar Face
+Fanatical Devotion
+Fastidious
+Fated
+Fateful
+Faustian Bargain
+Favored
+Fearful
+Fearless
+Feral
+Fervent Believer
+Fey Blood
+Fiery
+Filthy
+Firm
+Fixed Smile
+Flagellant
+Flamboyant
+Flatterer
+Flatulent
+Flea-Bitten
+Fleet of Foot
+Floury
+Folksy Wisdom
+Force of Nature
+Formalist
+Fortitude
+Foul Smelling
+Fractured Bone
+Fragile
+Fragrant
+Frail
+Fretful
+Frustrated
+Furtive
+
+G
+Gambler
+Garrulous
+Generous
+Genial
+Genius
+Gentle
+Geometric
+Gifted
+Glib
+Gloryhound
+Gluttonous
+Gnawing Hunger
+God Fearing
+Gonorrhea
+Good for Nothing
+Good Listener
+Gopher
+Gorgeous
+Gossip
+Graceful
+Graduate
+Greater Muse
+Greedy
+Grim
+Grotesque
+Grumbling
+Guarded
+Guilty Conscience
+H
+Hacking Cough
+Hairy
+Halitosis
+Handicapped
+Handsome
+Happy-Go-Lucky
+Hard Noggin
+Hard Skinned
+Hard Worker
+Hardened
+Hard-Hearted
+Harried
+Hateful
+Haunted
+Hazed
+Healthy
+Heartless
+Heliophobic
+Hemophobic
+Hermaphrodite
+Hideous
+Hoarder
+Holy
+Homesick
+Honored
+Hope
+Hopeless
+Horrific Aura
+Horse-friend
+Humble
+Hungry
+Hydrophobic
+Hypochondriac
+I
+Idealistic
+Ideologue
+Imperious
+Impersonal
+Impressive Hat
+Impulsive
+Incessant Tapper
+Incomprehensible
+Inconsiderate
+Indecisive
+Independent
+Industrious
+Ineffable Feature
+Infallible Logic
+Ink-Stained Hands
+Inscrutable
+Insidious Cruelty
+Insightful
+Insomniac
+Inspirational
+Intense
+Intimidating
+Intractable
+Invisible Friend
+Involuntary Shudders
+Iron Stomach
+Iron Will
+Irrational
+Irrepressible
+J
+Jaded
+Jaunty
+Jealous
+K
+Keen Taste
+Killer
+Kleptomaniac
+Know It All
+Known Cheat
+L
+Laconic
+Lame
+Landlubber
+Late
+Lavish Taste
+Lawbreaker
+Lazy
+Lazy Eye
+Learned
+Leprosy
+Light Sensitive
+Light Sleeper
+Light Touch
+Linguist
+Lithe
+Loner
+Lonesome
+Long Fingered
+Long of Limb
+Lost
+Lost Faith
+Love Interest
+Low Born
+Low Speech
+Loyal
+Lucky
+Lugubrious
+Luminescent
+Lunatic
+Lurker
+Lustrous
+M
+Mad
+Maimed
+Malformed
+Man Hunter
+Manly
+Mark of Privilege
+Mark of the Beast
+Marooned
+Martyr
+Masochistic
+Massive Stature
+Maternal
+Matriarchal
+Mean
+Meditator
+Meek
+Melodramatic
+Mercenary
+Merciful
+Merciless
+Mercurial
+Mesmerizing Gaze
+Metal Plate in the Skull
+Meticulous
+Mind for Small Details
+Mind Over Matter
+Misanthropic
+Missing Digit
+Missing Eye
+Missing Limb
+Misunderstood
+Monastic
+Murderous
+Mute
+Muttering
+Myopic
+N
+Naked Hatred
+Named
+Narcoleptic
+Natural Eye
+Natural Swing
+Nauseous
+Near-Sighted
+Necrophilic
+Necrophobic
+Nervous
+Night Owl
+Nihilistic
+Nimble
+Noblesse Oblige
+Nocturnal
+Nose for Trouble
+Numbness
+Nyctophobic
+Nymphomania
+O
+Oafishly Charming
+Obedient
+Obliging
+Obscure Aura
+Obsessed
+Obstinate
+Odd
+Odious
+Off Guard
+Off-Kilter
+On Guard
+Opportunist
+Ornery
+Other Life
+Overbite
+Overworked
+P
+Pack Rat
+Palsy
+Paranoid
+Parasites
+Pariah
+Passionate
+Patient
+Patriarchal
+Pecunious
+Penetrating Gaze
+Penny-Wise
+Perfect Pitch
+Perfectionist
+Perspective
+Piercing Gaze
+Plague Survivor
+Plain Face
+Plotting
+Pointed Ears
+Poisoned
+Poker Face
+Polite
+Pompous
+Portly
+Possessed
+Pound-Foolish
+Practical
+Practiced Smile
+Pragmatic
+Pragmatic Outlook
+Precise
+Predatory
+Problem with Authority
+Prodigy
+Professional
+Profusely Sweaty
+Prominent Scar
+Prone to Exaggeration
+Proud
+Psychotic
+Pugilist
+Pyromaniac
+Q
+Querulous
+Quick Reflexes
+Quick Study
+Quickdraw
+Quickened Pulse
+Quick Witted
+Quiescent
+Quiet
+Quirky
+R
+Rabble Rouser
+Rapturous
+Rash
+Reckless
+Reclusive
+Recondite
+Red-Blooded
+Reeks
+Regal Bearing
+Reincarnated
+Resigned to Death
+Resigned to Fate
+Resilient
+Resolute
+Restless
+Revered
+Reviled
+Rhetorical
+Righteous
+Road Weary
+Robust
+Romantic
+Rough Hands
+Royal Favorite
+Royal Presence
+Ruddy Complexion
+Ruminator
+Ruthless
+S
+Sadistic
+Salt of the Earth
+Sane
+Satanophobia
+Savvy
+Scapegoat
+Scarred
+Scattering
+Scavenger
+Sceptic
+Scheming
+Screaming
+Scurvy
+Sea Legs
+Seasoned
+Second Sight
+Second Wind
+Secretive
+Seemingly Unconcerned
+Seen It All
+Seen, Not Heard
+Self-Confident
+Selfish
+Sense of Direction
+Sense of Distance
+Sense of Entitlement
+Sense of Humor
+Serious
+Shaking Hands
+Sharp Dresser
+Shocker
+Shouting
+Shrewd
+Sick
+Sickly
+Silent
+Silent Hatred
+Singed
+Single-Minded
+Sixth Sense
+Skeptical
+Skinny
+Sleek
+Sleep-Talker
+Sleep-Walker
+Slippery
+Slow
+Slugger
+Smart
+Smells Like a Barn
+Snorer
+Soft
+Soft Step
+Solitary
+Sonorous Voice
+Spartacus
+Speaker of Tongues
+Spectacular
+Spirit Familiar
+Spirit Nature
+Spooky
+Sprinter
+Squinty
+Stalker
+Stark Raving Mad
+Starved
+Steady
+Steady Hands
+Stern
+Stinky
+Stoic
+Stout
+Strange
+Strapping
+Street Smart
+Stress Eater
+Stress Faster
+Strong Back
+Strong-Willed
+Stubborn
+Stung
+Stupid
+Stuttering
+Suicidal
+Superstitious
+Suspicious
+Swaggering
+Sweet Tooth
+Sworn Homage
+Syphilis
+T
+Taciturn
+Tactician
+Tainted Legacy
+Talks-With-Birds
+Tall Tale Teller
+Temperamental
+Tenacious
+Tentacles
+Tenuous
+Thanatophobia
+The Yips
+Thick Blooded
+Thick Skin
+Thief
+Thin Blooded
+Thoughtful
+Thousand-Yard Stare
+Thuggish
+Tidy Aspect
+Timid
+Tinkerer
+Tired
+Toiling
+Tolerant
+Tonsured
+Torn Muscle
+Torn Rotator
+Touch of Madness
+Touch of the Devil
+Tough
+Trusting
+Trustworthy
+Tunnel Vision
+Turgid
+Typhoid
+U
+Ugly
+Unbeliever
+Unctious
+Underbite
+Underpaid
+Uneasy
+Unerring
+Unfeeling
+Unflinching
+Unheeded
+Unholy Witness
+Unlucky
+Unquiet Mind
+Unrelenting Hatred
+Unyielding
+Urbane
+Vegetarian
+V
+Venal
+Versatile
+Vested
+Victimized
+Virtuoso
+Visionary
+Vitriolic
+Vocal
+Voracious Appetite
+W
+War Weary
+Wanderlust
+Wary
+Watchful
+Weak
+Weak Grip
+Weak-Willed
+Weapon Tinker
+Webbed Toes
+Weight of the World
+Weird
+Well Endowed
+Well Dressed
+Well Fed
+Well-Traveled
+Winded
+Withdrawals
+Witness
+World Weary
+Worldly
+X
+Xenophobic
+Xenophilic
+Y
+Yellow-Bellied
+Z
+Zealot
+Zoophobic 
+
+Example Character Sheets
+ 
+ 
+Character: Åstrid	Age: 29
+Player: Sara		Inspiration: 4
+Lifepaths
+Lifepath	Time	Rank	Lifepath	Time	Rank
+• Born Peasant	8	_2_	• Witch	6	_3_
+• Farmhand	4	_1_	•		___
+• Supplicant	2	_1_	•		___
+• Covenanter	5	_1_	•		___
+• Warlock	4	_2_	•		___
+Beliefs
+• My magic is a gift, but it comes with a price; I must use it for Good
+• Speaking uncomfortable truths is necessary
+• I must find the fey creature who granted me my magic
+•
+Traits	Instincts
+• Comfortable shoes	• Lotus eater	• Always carves sigils into arrowheads
+• Eldritch	•	• Always carves sigils into knifes
+• Horse friend	•	• Hides knife in tall boots
+• Piercing gaze	•	•
+• Red-blooded	•	•
+• Elfin	•	•
+Connections
+Affiliation	Rank	Affiliation	Rank
+   • Royal Stables	_2_	   • Konstantine (Bard)	_2_
+   • Witches’ Coven	_4_	   •	___
+   • Kingdom of Albion	_1_	   •	___
+	Stats	
+Will: 5	Strength: 4	Agility: 5
+Intellect: 4	Fortitude: 1	Endurance: 3
+	Attributes	
+Morale:	9 / 9	Vitality: 	5 / 5	Stamina: 	8 / 8
+Armor: 7
+Inventory 19 / 22
+Person	Storage (horse)
+• Brigandine [7] DR: 7	• Hardtack Rations (5)
+• Bow, Missile, DMG 1	• Animal Feed (5)
+• Knife, Clinching, DMG 1	• Bedroll
+• Water skin	• Tent, 3 man [2]
+• Lantern [2]	• Winter Furs
+• Lamp Oil (10)	• Cookpots
+• Horn	• 28 gp, 30 sp, 13 cp
+• Deck of Cards	• Silk Robes
+• Chalk (x10)	• Saffron (3)
+• Mortar and Pestle	• 
+• Incense (5)	•
+• Jar, glass (4)	•
+• 	•
+• 	•
+Property	Livestock
+•	• Riding Horse (Peaches)
+•	• Spirit Familiar (Silica)
+•	•
+ 
+Skills
+Name	Rank	Name	Rank
+Anatomy	_1_	Ritual *	_1_
+Ancient Languages	_2_	Runic Charms	_2_
+Animal Handling	_2_	Seduction	_2_
+Apothecary *	_4_	Sing	_2_
+Astrology *	_4_	Spirit Binding *	_4_
+Aura Reading *	_2_	Symbology	_2_
+Bloodletting	_5_	Ugly Truth	_5_
+Bow †	_2_		__
+Butchery	_1_		__
+Climbing	_1_		__
+Cooking	_1_		__
+Dance	_4_		__
+Demonology	_2_		__
+Digging	_1_		__
+Falsehood	_2_		__
+Farming	_2_		__
+Fire Building	_3_		__
+Folklore	_2_		__
+Foraging	_3_		__
+Haggling	_2_		__
+Hauling	_2_		__
+Herbalism	_5_		__
+Heretical Doctrine	_2_		__
+Intimidation	_1_		__
+Knives †	_2_		__
+Mending	_1_		__
+Meteorology	_2_		__
+Occultism	_4_		__
+Poisons	_2_		__
+Riding	_2_		__
+ 
+Might
+Weapon	Skill Rank	Range	Bonus Damage
+Bow	2	Missile	+1
+Knives	2	Clinching	+1
+			
+			
+			
+Magic
+Change
+Magical Skill	Skill Rank	Word	Cost
+Apothecary, Aura Reading	5, 1	Generation	0
+Astrology	4	Destruction	0
+Bloodletting, Ritual	5, 1	Increase	0
+Runic Charms	2	Decrease	0
+Spirit Binding	4	Alteration	0
+Sorcery	1	Movement	0
+Substance	Quantity
+Word	Cost	Word	Cost
+Fire	1	Color	0
+Water	1	Point	1
+Earth	1	Direction	1
+Aether	1	Length	2
+Plant
+ (Earth + Water)	2	Area	3
+Location	Duration
+Word	Cost	Word	Cost
+Sigil	0	Moment	0
+Touch	1	Concentration	1
+Voice	2	Moon	3
+Sight	3		
+			
+ 
+ 
+Character: Ali Ibn-Taleb
+Age: 39
+Player: Marshall		Inspiration: 3
+Lifepaths
+Lifepath	Time	Rank	Lifepath	Time	Rank
+• Born Burgher	12	_1_	• Man-at-Arms	4	_1_
+• Enlistedman	4	_2_	• Quartermaster	7	_4_
+• Infantryman	3	_1_	•		___
+• Artillerist	4	_2_	•		___
+•Mercenary	5	_3_	•		___
+Beliefs
+• God is the most great
+• Reach Heaven through violence
+• If you meet the prophet on the road, kill him
+• Do onto others as you would have done to your self
+Traits	Instincts
+• Devout	• Patient	• Keeps powder dry
+• Worldly	• Sword Wound	• 
+• Eagle Eye	•	•
+• A Bit Deaf	•	•
+• Shrapnel Scars	•	•
+• Missing Digits	•	•
+Connections
+Affiliation	Rank	Affiliation	Rank
+   • The Golden Company	_6_	   •	___
+   • Divine Church	_1_	   •	___
+   • Geometer Guild	___	   •	___
+	Stats	
+Will: 4	Strength: 5	Agility: 3
+Intellect: 2	Fortitude: 6	Endurance: 4
+	Attributes	
+Morale:	6 / 6	Vitality: 	11 / 11	Stamina: 	7 / 7
+Armor: 15
+Inventory 22 / 24
+Person	Storage (horses)
+• Firearm [3], missile, DMG 5	• Bedroll
+• Knife, clinching, DMG 1	• Blanket, winter
+• Sword, striking, DMG 2	• Book
+• Full Plate [10] DR: 13	• Compass
+• Shield [2] DR: 2	• Bağlama (Musical instrument)
+• Opium (5), Vitality Active	• 27 gp
+• Black Powder (10)	• Shovel
+• Bullet (20)	• Tent, 3 man
+• Rope, 50 ft.	• Water skin (1)
+• Merchant Clothes	• Flint & steel
+• 12 sp, 26 cp	• Lantern [2]
+•	• Lamp Oil (10)
+•	• Hardtack Rations (5)
+•	• 
+Property	Livestock
+•	• Horse, war (Alzalam)
+•	• Horse, pack (Haraj)
+•	•
+ 
+Skills
+Name	Rank	Name	Rank
+Accounting	_2_	Munitions	_4_
+Armoury	_2_	Musical Instruments	_2_
+Bargaining	_4_	Politics	_1_
+Bow  †	_2_	Provisioning	_2_
+Building	_3_	Read	_2_
+Campaigning	_5_	Riding	_2_
+Carpentry	_1_	Shield	_3_
+Command	_2_	Siege	_5_
+Cooking	_1_	Sing	_1_
+Dance	_1_	Smuggling	_1_
+Digging	_2_	Spear †	_2_
+Extortion	_1_	Strategy	_1_
+Field Dressing	_3_	Surveying	_1_
+Firearms  †	_5_	Sword †	_4_
+Firebuilding	_5_	Tactics	_1_
+Foraging	_2_	Wrestling	_1_
+Formation Fighting	_3_	Write	_2_
+Fortifications	_5_		__
+Gambling	_1_		__
+Geometry	_2_		__
+Grappling  †	_3_		__
+Hauling	_2_		__
+Heraldry	_1_		__
+Knives †	_4_		__
+Logic	_1_		__
+Logistics	_1_		__
+Management	_1_		__
+Marching	_3_		__
+Mathematics	_2_		__
+Mending	_1_		__
+			
+
+Might
+Weapon	Skill Rank	Range	Bonus Damage
+Bow	2	Missile	+1
+Firearms	5	Missile	+5
+Spear	2	Extended	+1
+Sword	4	Striking	+2
+Knives	4	Clinching	+1
+Wrestling	1	Clinching	+0
+Grappling	3	Grappling	+0
+Magic
+Change
+Magical Skill	Skill Rank	Word	Cost
+		Generation	0
+		Destruction	0
+		Increase	0
+		Decrease	0
+		Alteration	0
+		Movement	0
+Substance	Quantity
+Word	Cost	Word	Cost
+		Color	0
+			
+			
+			
+Location	Duration
+Word	Cost	Word	Cost
+Sigil	0	Moment	0
+			
+			
+			
+			
+	
+Character:
+Age:
+Player: 		Inspiration:
+Lifepaths
 Lifepath	Time	Rank	Lifepath	Time	Rank
 •		___	•		___
 •		___	•		___
 •		___	•		___
 •		___	•		___
 •		___	•		___
-Beliefs	Traits
-•	•	•
-•	•	•
-•	•	•
-•	•	•
-Instincts
+Beliefs
 •
 •
 •
 •
+Traits	Instincts
+•	•	•
+•	•	•
+•	•	•
+•	•	•
+•	•	•
+•	•	•
 Connections
 Affiliation	Rank	Affiliation	Rank
    •	___	   •	___
    •	___	   •	___
    •	___	   •	___
-   •	___	   •	___
+			
 	Stats	
 Will: 	Strength:	Agility:
-Intellect:	Fortitude	Speed:
+Intellect:	Fortitude:	Endurance:
 	Attributes	
 Morale:	__ / __	Vitality: 	__ / __	Stamina: 	__ / __
-DV:	DR:	DV:	DR:	DV:	DR:
+Armor:
 Inventory __ / __
-•	•
-•	•
+Person	Storage
 •	•
 •	•
 •	•
@@ -1018,34 +2619,102 @@ Property	Livestock
 •	•
 •	•
 •	•
-•	•
+
+ 
 Skills
 Name	Rank	Name	Rank
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
-•	___	•	___
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+	__		__
+ 
+Might
+Weapon	Skill Rank	Range	Bonus Damage
+			
+			
+			
+			
+			
+			
+Magic
+Change
+Magical Skill	Skill Rank	Word	Cost
+		Generation	0
+		Destruction	0
+		Increase	0
+		Decrease	0
+		Alteration	0
+		Movement	0
+Substance	Quantity
+Word	Cost	Word	Cost
+		Color	0
+			
+			
+			
+			
+Location	Duration
+Word	Cost	Word	Cost
+Sigil	0	Moment	0
+			
+			
+			
+			
+ 
+Support
+Ataraxia was made possible due to the encouragement, feedback, editing, and assistance of my loving wife, friends, family, and the RPG community.
+Contact email address
+Ataraxia-RPG@protonmail.com
+Discord link
+https://discord.gg/ZPepA8T9NF
 
+This game was made using the free fonts Crimson Text and Davida Becker.
+Games that inspired this ruleset: 
+	Ars Magica
+	Burning Wheel
+	Darkest Dungeon
+	Dungeon Crawl Classics
+	Dungeons & Dragons
+	ICRPG
+	Knave
+	Old School Essentials
+	Torchbearer
+
+
+
+
+
+
+Copyright
+MIT License: Copyright 2022 Ataraxia-RPG
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+ 
  
 
