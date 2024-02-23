@@ -112,7 +112,7 @@ def main():
     pd.set_option('display.max_colwidth', None)
 
     # Load data
-    df_lifepaths = pd.read_csv(lifepaths_path)
+    df = pd.read_csv(lifepaths_path)
     start_df = df.loc[df['Title'].str.contains("Born")]
     df['skill list'] = df['Skills'].apply(lambda x: [item.strip() for item in x.split(',')])
     df['lead list'] = df['Leads'].apply(lambda x: [item.strip() for item in x.split(',')])
@@ -134,6 +134,8 @@ def main():
 
         # Enhanced Skills Display
         if not lp_df.empty:
+            skill_ls = lp_df['Skills'].str.split(',').explode().str.strip().tolist()
+            skill_dict = {k: v for k, v in zip(*np.unique(skill_ls, return_counts=True))}
             print("Skills:")
             for skill, count in skill_dict.items():
                 print(f"  {skill}: {count}")
