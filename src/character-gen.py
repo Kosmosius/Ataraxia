@@ -160,7 +160,7 @@ def main():
             lp_df = lp_df.append(selected_row, ignore_index=True)
         else:
             break
-    char_name = input("\nWhat is your character's name?")
+    char_name = input("\nWhat is your character's name? ")
 
     # Call to print the final character summary
     print_final_character_summary(lp_df, char_name)
