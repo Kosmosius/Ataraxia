@@ -156,7 +156,7 @@ def main():
                 selected_df = start_df if lp_df.empty else choice_df
                 title = selected_df.sample(n=1)['Title'].iloc[0]
             selected_row = df[df['Title'].str.upper() == title.upper()].copy(deep=True)
-            selected_row.loc[:, 'Traits'] = random.choice(loaded_trait_list) # Assign a random trait
+            selected_row['Traits'] = [random.choice(loaded_trait_list) for _ in range(len(selected_row))]
             lp_df = pd.concat([lp_df, selected_row], ignore_index=True)
         else:
             break
