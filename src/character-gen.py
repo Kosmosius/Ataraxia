@@ -157,7 +157,7 @@ def main():
                 title = selected_df.sample(n=1)['Title'].iloc[0]
             selected_row = df[df['Title'].str.upper() == title.upper()].copy(deep=True)
             selected_row.loc[:, 'Traits'] = random.choice(loaded_trait_list) # Assign a random trait
-            lp_df = lp_df.append(selected_row, ignore_index=True)
+            lp_df = pd.concat([lp_df, selected_row], ignore_index=True)
         else:
             break
     char_name = input("\nWhat is your character's name? ")
